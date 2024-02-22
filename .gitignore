@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# eBird dataset
+data/ebd_US-ME-009_relDec-2023.txt
