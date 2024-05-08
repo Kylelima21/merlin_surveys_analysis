@@ -1,0 +1,3 @@
+"outcome","b","odds.ratio","odds.ratio.CI"
+"(Intercept):both_fn",-2.565,0.077,"0.01-0.588"
+"(Intercept):merlin_fn",-0.619,0.538,"0.215-1.35"

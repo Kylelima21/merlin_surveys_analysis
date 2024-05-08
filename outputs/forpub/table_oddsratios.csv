@@ -1,0 +1,4 @@
+﻿Contrast,Odds ratio,SE,z ratio,P
+both / human,1.88,0.324,3.688,0.0007
+both / merlin,2.86,0.491,6.096,<0.0001
+human / merlin,1.51,0.247,2.551,0.0289

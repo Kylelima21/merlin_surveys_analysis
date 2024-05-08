@@ -35,3 +35,42 @@ overdisp_fun <- function(model) {
   pval <- pchisq(Pearson.chisq, df=rdf, lower.tail=FALSE)
   c(chisq=Pearson.chisq,ratio=prat,rdf=rdf,p=pval)
 }
+
+
+
+
+### Function to get all missed IDs by merlin for each device 
+merldat_calc <- function (phone) { 
+  
+  mdates <- merl %>% 
+    filter(device == phone) %>% 
+    distinct(date)
+  
+  merlin.phone <- merl %>% 
+    filter(obs.method == "merlin" & device == phone | 
+             obs.method == "playback") %>%
+    group_by(date, point.number, species.code) %>% 
+    slice(1) %>% 
+    ungroup() %>% 
+    mutate(correct.id = ifelse(is.na(correct.id) & obs.method == "playback", "missed", correct.id)) %>% 
+    left_join(main.obs, by = c("date", "point.number")) %>% 
+    select(date, observer.initials = observer.initials.y, obs.method:correct.id) %>% 
+    filter(species.code != "none" & species.code != "warbler sp." &
+             species.code != "bird sp." & species.code != "sparrow sp." &
+             species.code != "Empidonax sp." & species.code != "UNK") %>% 
+    filter(date %in% mdates$date) %>%
+    mutate(obs.method = "merlin",
+           device = phone) %>% 
+    filter(correct.id == "missed") %>% 
+    group_by(date, device, point.number) %>% 
+    summarise(num.mis = length(species.code)) %>% 
+    full_join(., mis.rows) %>% 
+    ungroup() %>% 
+    filter(obs.method == "merlin" & device == phone) %>% 
+    mutate(num.mis = ifelse(is.na(num.mis), 0, num.mis)) %>% 
+    arrange(date, obs.method, point.number)
+
+}
+
+
+

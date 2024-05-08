@@ -1,0 +1,79 @@
+Species,Species code,Observer,Number of counts (n),Percentage of counts (n)
+American Crow,AMCR,Human,36,25
+Red-eyed Vireo,REVI,Human,33,23
+Black-capped Chickadee,BCCH,Human,27,19
+Black-throated Green Warbler,BTNW,Human,27,19
+Golden-crowned Kinglet,GCKI,Human,26,18
+Hermit Thrush,HETH,Human,24,17
+Blue Jay,BLJA,Human,23,16
+Red-breasted Nuthatch,RBNU,Human,21,15
+Mourning Dove,MODO,Human,16,11
+American Goldfinch,AGOL,Human,12,8
+American Robin,AMRO,Human,12,8
+Dark-eyed Junco,DEJU,Human,12,8
+Ovenbird,OVEN,Human,10,7
+White-throated Sparrow,WTSP,Human,10,7
+Yellow-rumped Warbler,YRWA,Human,10,7
+Pine Siskin,PISI,Human,7,5
+Cedar Waxwing,CEDW,Human,5,3
+Common Raven,CORA,Human,4,3
+Northern Flicker,NOFL,Human,4,3
+Black-and-white Warbler,BAWW,Human,3,2
+Common Yellowthroat,COYE,Human,3,2
+Nashville Warbler,NAWA,Human,3,2
+Osprey,OSPR,Human,3,2
+Broad-winged Hawk,BWHA,Human,2,1
+Gray Catbird,GRCA,Human,2,1
+Hairy Woodpecker,HAWO,Human,2,1
+Magnolia Warbler,MAWA,Human,2,1
+Barred Owl,BADO,Human,1,< 1
+Blue-headed Vireo,BHVI,Human,1,< 1
+Brown Creeper,BRCR,Human,1,< 1
+Canada Goose,CANG,Human,1,< 1
+Cooper's Hawk,COHA,Human,1,< 1
+Downy Woodpecker,DOWO,Human,1,< 1
+Eastern Kingbird,EAKI,Human,1,< 1
+Herring Gull,HERG,Human,1,< 1
+Northern Parula,NOPA,Human,1,< 1
+Pine Warbler,PIWA,Human,1,< 1
+Pileated Woodpecker,PIWO,Human,1,< 1
+Swainson's Thrush,SWTH,Human,1,< 1
+Black-throated Green Warbler,BTNW,Merlin Sound ID,40,28
+Hermit Thrush,HETH,Merlin Sound ID,33,23
+Red-eyed Vireo,REVI,Merlin Sound ID,27,19
+Golden-crowned Kinglet,GCKI,Merlin Sound ID,26,18
+Yellow-rumped Warbler,YRWA,Merlin Sound ID,19,13
+Black-capped Chickadee,BCCH,Merlin Sound ID,15,10
+Ovenbird,OVEN,Merlin Sound ID,15,10
+American Goldfinch,AGOL,Merlin Sound ID,11,8
+American Robin,AMRO,Merlin Sound ID,11,8
+White-throated Sparrow,WTSP,Merlin Sound ID,11,8
+American Crow,AMCR,Merlin Sound ID,8,6
+Dark-eyed Junco,DEJU,Merlin Sound ID,8,6
+Blue Jay,BLJA,Merlin Sound ID,7,5
+Cedar Waxwing,CEDW,Merlin Sound ID,7,5
+Nashville Warbler,NAWA,Merlin Sound ID,6,4
+Red-breasted Nuthatch,RBNU,Merlin Sound ID,6,4
+Black-and-white Warbler,BAWW,Merlin Sound ID,5,3
+Blue-headed Vireo,BHVI,Merlin Sound ID,5,3
+Common Yellowthroat,COYE,Merlin Sound ID,4,3
+Downy Woodpecker,DOWO,Merlin Sound ID,4,3
+Magnolia Warbler,MAWA,Merlin Sound ID,4,3
+Mourning Dove,MODO,Merlin Sound ID,4,3
+Northern Flicker,NOFL,Merlin Sound ID,4,3
+Brown Creeper,BRCR,Merlin Sound ID,3,2
+Hairy Woodpecker,HAWO,Merlin Sound ID,3,2
+Pine Siskin,PISI,Merlin Sound ID,3,2
+Blackpoll Warbler,BLPW,Merlin Sound ID,2,1
+Common Raven,CORA,Merlin Sound ID,2,1
+Osprey,OSPR,Merlin Sound ID,2,1
+American Pipit,AMPI,Merlin Sound ID,1,< 1
+Chipping Sparrow,CHSP,Merlin Sound ID,1,< 1
+Eastern Kingbird,EAKI,Merlin Sound ID,1,< 1
+Eastern Phoebe,EAPH,Merlin Sound ID,1,< 1
+Gray Catbird,GRCA,Merlin Sound ID,1,< 1
+Palm Warbler,PAWA,Merlin Sound ID,1,< 1
+Pileated Woodpecker,PIWO,Merlin Sound ID,1,< 1
+Purple Finch,PUFI,Merlin Sound ID,1,< 1
+Song Sparrow,SOSP,Merlin Sound ID,1,< 1
+Swainson's Thrush,SWTH,Merlin Sound ID,1,< 1

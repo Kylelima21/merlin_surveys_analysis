@@ -357,6 +357,363 @@ device.dat %>%
 
 
 
+#------------------------------------------------#
+####      Independent Observer p* - raw       ####
+#------------------------------------------------#
+
+mdpdat <- merl %>% 
+  filter(obs.method == "merlin") %>% 
+  group_by(date, point.number)
+
+
+set.seed(1)
+
+
+mdpfilt <- mdpdat %>% 
+  distinct(observer.initials, device) %>% 
+  sample_n(1)
+
+
+merldp <- mdpdat %>%
+  left_join(mdpfilt, by = c("date", "point.number")) %>% 
+  filter(device.x == device.y & observer.initials.x == observer.initials.y) %>% 
+  select(-c(device.y, observer.initials.y)) %>% 
+  rename(device = device.x, observer.initials = observer.initials.x)
+
+
+humandp <- merl %>% 
+  filter(obs.method == "hearing")
+
+
+hmdat <- bind_rows(humandp, merldp) %>% 
+  arrange(date, point.number, obs.method) %>% 
+  filter(species.code != "UNK" & species.code != "none" & species.code != "sparrow sp.") %>% 
+  filter(date != "2023-07-13" & date != "2023-10-06") %>% 
+  mutate(device = ifelse(obs.method == "hearing", "human", device)) %>% 
+  add_count(date, point.number, species.code) %>% 
+  mutate(n = ifelse(n == 2, "both", n),
+         n = ifelse(n == 1 & obs.method == "hearing", "hum.only", n),
+         n = ifelse(n == 1 & obs.method == "merlin", "merl.only", n)) 
+
+
+sp.to.filt <- hmdat %>% 
+  group_by(species.code) %>% 
+  summarise(sum = sum(count.number)) %>% 
+  filter(sum < 10)
+
+
+x10 <- hmdat %>% 
+  mutate(species.code = ifelse(species.code %in% sp.to.filt$species.code, 
+                               "grp1", species.code)) %>% 
+  filter(n == "hum.only") %>% 
+  group_by(date, point.number, species.code) %>% 
+  summarise(X10 = sum(count.number), .groups = "drop") %>% 
+  group_by(species.code) %>% 
+  summarise(X10 = sum(X10))
+
+
+x01 <- hmdat %>% 
+  mutate(species.code = ifelse(species.code %in% sp.to.filt$species.code, 
+                               "grp1", species.code)) %>% 
+  filter(n == "merl.only") %>% 
+  group_by(date, point.number, species.code) %>% 
+  summarise(X01 = sum(count.number), .groups = "drop") %>% 
+  group_by(species.code) %>% 
+  summarise(X01 = sum(X01))
+
+
+x11 <- hmdat %>% 
+  mutate(species.code = ifelse(species.code %in% sp.to.filt$species.code, 
+                               "grp1", species.code)) %>% 
+  filter(n == "both") %>% 
+  group_by(date, point.number, species.code) %>% 
+  summarise(X11 = sum(count.number), .groups = "drop") %>% 
+  group_by(species.code) %>% 
+  summarise(X11 = sum(X11))
+
+
+inddpdat <- full_join(x10, x01, by = "species.code") %>% 
+  full_join(., x11, by = "species.code") %>% 
+  replace(is.na(.), 0) %>% 
+  mutate(obs = 1, sum = X10 + X01 + X11) %>% 
+  select(obs, everything()) %>% 
+  rename(sp = species.code) %>% 
+  arrange(sp) %>% 
+  as.data.frame()
+
+
+modz <- dobserv_indep_obs(inddpdat, model = ~sp + obs)
+print(round(modz$z, 2))
+
+
+
+
+#------------------------------------------------#
+####      Independent Observer p* - clean       ####
+#------------------------------------------------#
+
+mdpdat <- merl %>% 
+  filter(obs.method == "merlin" & correct.id == "yes") %>% 
+  group_by(date, point.number)
+
+
+set.seed(1)
+
+
+mdpfilt <- mdpdat %>% 
+  distinct(observer.initials, device) %>% 
+  sample_n(1)
+
+
+merldp <- mdpdat %>%
+  left_join(mdpfilt, by = c("date", "point.number")) %>% 
+  filter(device.x == device.y & observer.initials.x == observer.initials.y) %>% 
+  select(-c(device.y, observer.initials.y)) %>% 
+  rename(device = device.x, observer.initials = observer.initials.x)
+
+
+humandp <- merl %>% 
+  filter(obs.method == "hearing" & correct.id != "no")
+
+
+hmdat <- bind_rows(humandp, merldp) %>% 
+  arrange(date, point.number, obs.method) %>% 
+  filter(species.code != "UNK" & species.code != "none" & species.code != "sparrow sp.") %>% 
+  filter(date != "2023-07-13" & date != "2023-10-06") %>% 
+  mutate(device = ifelse(obs.method == "hearing", "human", device)) %>% 
+  add_count(date, point.number, species.code) %>% 
+  mutate(n = ifelse(n == 2, "both", n),
+         n = ifelse(n == 1 & obs.method == "hearing", "hum.only", n),
+         n = ifelse(n == 1 & obs.method == "merlin", "merl.only", n)) 
+
+
+sp.to.filt <- hmdat %>% 
+  group_by(species.code) %>% 
+  summarise(sum = sum(count.number)) %>% 
+  filter(sum < 10)
+
+
+x10 <- hmdat %>% 
+  mutate(species.code = ifelse(species.code %in% sp.to.filt$species.code, 
+                               "grp1", species.code)) %>% 
+  filter(n == "hum.only") %>% 
+  group_by(date, point.number, species.code) %>% 
+  summarise(X10 = sum(count.number), .groups = "drop") %>% 
+  group_by(species.code) %>% 
+  summarise(X10 = sum(X10))
+
+
+x01 <- hmdat %>% 
+  mutate(species.code = ifelse(species.code %in% sp.to.filt$species.code, 
+                               "grp1", species.code)) %>% 
+  filter(n == "merl.only") %>% 
+  group_by(date, point.number, species.code) %>% 
+  summarise(X01 = sum(count.number), .groups = "drop") %>% 
+  group_by(species.code) %>% 
+  summarise(X01 = sum(X01))
+
+
+x11 <- hmdat %>% 
+  mutate(species.code = ifelse(species.code %in% sp.to.filt$species.code, 
+                               "grp1", species.code)) %>% 
+  filter(n == "both") %>% 
+  group_by(date, point.number, species.code) %>% 
+  summarise(X11 = sum(count.number), .groups = "drop") %>% 
+  group_by(species.code) %>% 
+  summarise(X11 = sum(X11))
+
+
+inddpdat <- full_join(x10, x01, by = "species.code") %>% 
+  full_join(., x11, by = "species.code") %>% 
+  replace(is.na(.), 0) %>% 
+  mutate(obs = 1, sum = X10 + X01 + X11) %>% 
+  select(obs, everything()) %>% 
+  rename(sp = species.code) %>% 
+  arrange(sp) %>% 
+  as.data.frame()
+
+
+modz <- dobserv_indep_obs(inddpdat, model = ~sp + obs)
+print(round(modz$z, 2))
+
+
+
+
+#------------------------------------------------#
+####  Independent Obs p* - clean ~ post hoc   ####
+#------------------------------------------------#
+
+humandp <- merl %>% 
+  filter(obs.method == "hearing" & correct.id != "no")
+
+
+posthdp <- merl %>% 
+  filter(obs.method == "playback")
+
+
+hmdat <- bind_rows(humandp, posthdp) %>% 
+  arrange(date, point.number, obs.method) %>% 
+  filter(species.code != "UNK" & species.code != "none" & species.code != "sparrow sp."
+         & species.code != "Empidonax sp." & species.code != "warbler sp." 
+         & species.code != "bird sp.") %>% 
+  filter(date != "2023-07-13" & date != "2023-10-06") %>% 
+  mutate(count.number = ifelse(obs.method == "playback", 1, count.number)) %>% 
+  add_count(date, point.number, species.code) %>% 
+  mutate(n = ifelse(n == 2, "both", n),
+         n = ifelse(n == 1 & obs.method == "playback", "pb.only", n),
+         n = ifelse(n == 1 & obs.method == "hearing", "hum.only", n)) 
+
+
+sp.to.filt <- hmdat %>% 
+  group_by(species.code) %>% 
+  summarise(sum = sum(count.number)) %>% 
+  filter(sum < 10)
+
+
+x10 <- hmdat %>% 
+  mutate(species.code = ifelse(species.code %in% sp.to.filt$species.code, 
+                               "grp1", species.code)) %>% 
+  filter(n == "hum.only") %>% 
+  group_by(date, point.number, species.code) %>% 
+  summarise(X10 = sum(count.number), .groups = "drop") %>% 
+  group_by(species.code) %>% 
+  summarise(X10 = sum(X10))
+
+
+x01 <- hmdat %>% 
+  mutate(species.code = ifelse(species.code %in% sp.to.filt$species.code, 
+                               "grp1", species.code)) %>% 
+  filter(n == "pb.only") %>% 
+  group_by(date, point.number, species.code) %>% 
+  summarise(X01 = sum(count.number), .groups = "drop") %>% 
+  group_by(species.code) %>% 
+  summarise(X01 = sum(X01))
+
+
+x11 <- hmdat %>%
+  mutate(species.code = ifelse(species.code %in% sp.to.filt$species.code, 
+                               "grp1", species.code)) %>% 
+  filter(n == "both") %>% 
+  group_by(date, point.number, species.code) %>% 
+  summarise(X11 = sum(count.number), .groups = "drop") %>% 
+  group_by(species.code) %>% 
+  summarise(X11 = sum(X11))
+
+
+inddpdat <- full_join(x10, x01, by = "species.code") %>% 
+  full_join(., x11, by = "species.code") %>% 
+  replace(is.na(.), 0) %>% 
+  mutate(obs = 1) %>% 
+  select(obs, everything()) %>% 
+  rename(sp = species.code) %>% 
+  arrange(sp) %>% 
+  as.data.frame()
+
+
+modz <- dobserv_indep_obs(inddpdat, model = ~sp + obs)
+print(round(modz$z, 2))
+
+
+
+
+#------------------------------------------------#
+####     Independent Observer p* - < 50 m     ####
+#------------------------------------------------#
+
+mdpdat <- merl %>% 
+  filter(obs.method == "merlin") %>% 
+  group_by(date, point.number)
+
+
+set.seed(1)
+
+
+mdpfilt <- mdpdat %>% 
+  distinct(observer.initials, device) %>% 
+  sample_n(1)
+
+
+merldp <- mdpdat %>%
+  left_join(mdpfilt, by = c("date", "point.number")) %>% 
+  filter(device.x == device.y & observer.initials.x == observer.initials.y) %>% 
+  select(-c(device.y, observer.initials.y)) %>% 
+  rename(device = device.x, observer.initials = observer.initials.x)
+
+
+## Select only the human obs
+## Remove dates where distance was not recorded
+humandp <- merl %>% 
+  filter(obs.method == "hearing") %>% 
+  filter(date != "2023-07-07" & date != "2023-07-20") %>% 
+  filter(distance.50.u.o == "u")
+
+
+## Combine human and Merlin data
+## Remove dates that were SB and KL
+hmdat <- bind_rows(humandp, merldp) %>% 
+  arrange(date, point.number, obs.method) %>% 
+  filter(species.code != "UNK" & species.code != "none" & species.code != "sparrow sp.") %>% 
+  filter(date != "2023-07-13" & date != "2023-10-06") %>% 
+  mutate(device = ifelse(obs.method == "hearing", "human", device)) %>% 
+  add_count(date, point.number, species.code) %>% 
+  mutate(n = ifelse(n == 2, "both", n),
+         n = ifelse(n == 1 & obs.method == "hearing", "hum.only", n),
+         n = ifelse(n == 1 & obs.method == "merlin", "merl.only", n)) 
+
+
+sp.to.filt <- hmdat %>% 
+  group_by(species.code) %>% 
+  summarise(sum = sum(count.number)) %>% 
+  filter(sum < 10)
+
+
+x10 <- hmdat %>% 
+  mutate(species.code = ifelse(species.code %in% sp.to.filt$species.code, 
+                               "grp1", species.code)) %>% 
+  filter(n == "hum.only") %>% 
+  group_by(date, point.number, species.code) %>% 
+  summarise(X10 = sum(count.number), .groups = "drop") %>% 
+  group_by(species.code) %>% 
+  summarise(X10 = sum(X10))
+
+
+x01 <- hmdat %>% 
+  mutate(species.code = ifelse(species.code %in% sp.to.filt$species.code, 
+                               "grp1", species.code)) %>% 
+  filter(n == "merl.only") %>% 
+  group_by(date, point.number, species.code) %>% 
+  summarise(X01 = sum(count.number), .groups = "drop") %>% 
+  group_by(species.code) %>% 
+  summarise(X01 = sum(X01))
+
+
+x11 <- hmdat %>% 
+  mutate(species.code = ifelse(species.code %in% sp.to.filt$species.code, 
+                               "grp1", species.code)) %>% 
+  filter(n == "both") %>% 
+  group_by(date, point.number, species.code) %>% 
+  summarise(X11 = sum(count.number), .groups = "drop") %>% 
+  group_by(species.code) %>% 
+  summarise(X11 = sum(X11))
+
+
+inddpdat50 <- full_join(x10, x01, by = "species.code") %>% 
+  full_join(., x11, by = "species.code") %>% 
+  replace(is.na(.), 0) %>% 
+  mutate(obs = 1) %>% 
+  select(obs, everything()) %>% 
+  rename(sp = species.code) %>% 
+  arrange(sp) %>% 
+  as.data.frame()
+
+
+mod50 <- dobserv_indep_obs(inddpdat50, model = ~sp + obs)
+print(round(mod50$z, 2))
+
+
+
+
+
 
 #------------------------------------------------#
 ####             Dependent obs P              ####

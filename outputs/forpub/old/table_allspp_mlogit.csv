@@ -1,0 +1,4 @@
+outcome,b,SE,odds.ratio,odds.ratio.CI
+both_fn,-0.44,0.125,0.644,0.504-0.823
+human_fn,-1.333,0.171,0.264,0.189-0.369
+merlin_fn,-0.79,0.140,0.454,0.345-0.598
