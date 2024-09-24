@@ -1,0 +1,1205 @@
+"date","observer.initials","obs.method","device","point.number","time","sky","wind","noise","temp","species.code","count.number","type.a.v","distance.50.u.o","notes","correct.id"
+2023-07-07,"BDG","hearing","human","RC1","8:43",1,0,1,70,"REVI",1,"a",NA,"","no"
+2023-07-07,"BDG","hearing","human","RC1","8:43",1,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC1","8:43",1,0,1,70,"RBNU",1,"a",NA,"","unverifiable"
+2023-07-07,"BDG","hearing","human","RC1","8:43",1,0,1,70,"HETH",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC1","8:43",1,0,1,70,"BHVI",1,"a",NA,"audio files","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC1","8:43",1,0,1,70,"RWBL",1,"a",NA,"","no"
+2023-07-07,"EDH","merlin","iPhone SE","RC1","8:43",1,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC1","8:43",1,0,1,70,"REVI",1,"a",NA,"","no"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC1","8:43",1,0,1,70,"BHVI",1,"a",NA,"audio_files","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC1","8:43",1,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC1","8:43",1,0,1,70,"RWBL",1,"a",NA,"","no"
+2023-07-07,"KL","playback",NA,"RC1","8:43",1,0,1,70,"BHVI",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC1","8:43",1,0,1,70,"BTNW",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC1","8:43",1,0,1,70,"HETH",NA,"a",NA,"",NA
+2023-07-07,"BDG","hearing","human","RC10","10:19",1,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC10","10:19",1,0,1,70,"DEJU",1,"a",NA,"","unverifiable"
+2023-07-07,"BDG","hearing","human","RC10","10:19",1,0,1,70,"OVEN",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC10","10:19",1,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC10","10:19",1,0,1,70,"OVEN",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC10","10:19",1,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC10","10:19",1,0,1,70,"OVEN",1,"a",NA,"","yes"
+2023-07-07,"KL","playback",NA,"RC10","10:19",1,0,1,70,"BTNW",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC10","10:19",1,0,1,70,"OVEN",NA,"a",NA,"",NA
+2023-07-07,"BDG","hearing","human","RC2","8:54",1,0,1,70,"HETH",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC2","8:54",1,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC2","8:54",1,0,1,70,"OVEN",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC2","8:54",1,0,1,70,"WTSP",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC2","8:54",1,0,1,70,"OVEN",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC2","8:54",1,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC2","8:54",1,0,1,70,"COYE",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC2","8:54",1,0,1,70,"HETH",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC2","8:54",1,0,1,70,"WOTH",1,"a",NA,"","no"
+2023-07-07,"EDH","merlin","iPhone SE","RC2","8:54",1,0,1,70,"WTSP",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC2","8:54",1,0,1,70,"HETH",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC2","8:54",1,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC2","8:54",1,0,1,70,"OVEN",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC2","8:54",1,0,1,70,"COYE",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC2","8:54",1,0,1,70,"WTSP",1,"a",NA,"","yes"
+2023-07-07,"KL","playback",NA,"RC2","8:54",1,0,1,70,"OVEN",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC2","8:54",1,0,1,70,"HETH",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC2","8:54",1,0,1,70,"BTNW",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC2","8:54",1,0,1,70,"COYE",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC2","8:54",1,0,1,70,"WTSP",NA,"a",NA,"",NA
+2023-07-07,"BDG","hearing","human","RC3","9:04",1,0,1,70,"OVEN",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC3","9:04",1,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC3","9:04",1,0,1,70,"NAWA",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC3","9:04",1,0,1,70,"HETH",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC3","9:04",1,0,1,70,"REVI",1,"a",NA,"","unverifiable"
+2023-07-07,"EDH","merlin","iPhone SE","RC3","9:04",1,0,1,70,"OVEN",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC3","9:04",1,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC3","9:04",1,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC3","9:04",1,0,1,70,"OVEN",1,"a",NA,"","yes"
+2023-07-07,"KL","playback",NA,"RC3","9:04",1,0,1,70,"OVEN",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC3","9:04",1,0,1,70,"AGOL",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC3","9:04",1,0,1,70,"BTNW",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC3","9:04",1,0,1,70,"NAWA",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC3","9:04",1,0,1,70,"HETH",NA,"a",NA,"",NA
+2023-07-07,"BDG","hearing","human","RC4","9:14",1,0,1,70,"HETH",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC4","9:14",1,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC4","9:14",1,0,1,70,"WTSP",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC4","9:14",1,0,1,70,"OVEN",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC4","9:14",1,0,1,70,"BAWW",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC4","9:14",1,0,1,70,"HETH",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC4","9:14",1,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC4","9:14",1,0,1,70,"OVEN",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC4","9:14",1,0,1,70,"WTSP",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC4","9:14",1,0,1,70,"BAWW",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC4","9:14",1,0,1,70,"HETH",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC4","9:14",1,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC4","9:14",1,0,1,70,"BAWW",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC4","9:14",1,0,1,70,"OVEN",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC4","9:14",1,0,1,70,"WTSP",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC4","9:14",1,0,1,70,"WOTH",1,"a",NA,"","no"
+2023-07-07,"KL","playback",NA,"RC4","9:14",1,0,1,70,"HETH",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC4","9:14",1,0,1,70,"BTNW",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC4","9:14",1,0,1,70,"WTSP",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC4","9:14",1,0,1,70,"OVEN",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC4","9:14",1,0,1,70,"BAWW",NA,"a",NA,"",NA
+2023-07-07,"BDG","hearing","human","RC5","9:24",1,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC5","9:24",1,0,1,70,"OVEN",1,"a",NA,"","unverifiable"
+2023-07-07,"BDG","hearing","human","RC5","9:24",1,0,1,70,"HETH",1,"a",NA,"used to be HERM","yes"
+2023-07-07,"BDG","hearing","human","RC5","9:24",1,0,1,70,"DEJU",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC5","9:24",1,0,1,70,"WTSP",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC5","9:24",1,0,1,70,"MAWA",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC5","9:24",1,0,1,70,"CAWA",1,"a",NA,"","no"
+2023-07-07,"EDH","merlin","iPhone SE","RC5","9:24",1,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC5","9:24",1,0,1,70,"HETH",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC5","9:24",1,0,1,70,"DEJU",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC5","9:24",1,0,1,70,"BAWW",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC5","9:24",1,0,1,70,"HETH",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC5","9:24",1,0,1,70,"DEJU",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC5","9:24",1,0,1,70,"MAWA",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC5","9:24",1,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC5","9:24",1,0,1,70,"WOTH",1,"a",NA,"","no"
+2023-07-07,"KL","playback",NA,"RC5","9:24",1,0,1,70,"MAWA",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC5","9:24",1,0,1,70,"BTNW",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC5","9:24",1,0,1,70,"HETH",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC5","9:24",1,0,1,70,"DEJU",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC5","9:24",1,0,1,70,"BAWW",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC5","9:24",1,0,1,70,"WTSP",NA,"a",NA,"",NA
+2023-07-07,"BDG","hearing","human","RC6","9:35",1,0,1,70,"OVEN",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC6","9:35",1,0,1,70,"HETH",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC6","9:35",1,0,1,70,"OSPR",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC6","9:35",1,0,1,70,"OVEN",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC6","9:35",1,0,1,70,"MAWA",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC6","9:35",1,0,1,70,"NAWA",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC6","9:35",1,0,1,70,"RTHA",1,"a",NA,"","no"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC6","9:35",1,0,1,70,"MAWA",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC6","9:35",1,0,1,70,"OVEN",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC6","9:35",1,0,1,70,"NAWA",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC6","9:35",1,0,1,70,"OSPR",1,"a",NA,"","yes"
+2023-07-20,"BDG","hearing","human","RC1","10:34",0,0,1,72,"BTNW",2,"a",NA,"","yes"
+2023-07-20,"BDG","hearing","human","RC1","10:34",0,0,1,72,"YRWA",1,"a",NA,"","yes"
+2023-07-20,"BDG","hearing","human","RC1","10:34",0,0,1,72,"HETH",1,"a",NA,"","yes"
+2023-07-20,"BDG","hearing","human","RC1","10:34",0,0,1,72,"SWTH",1,"a",NA,"","unverifiable"
+2023-07-20,"BDG","hearing","human","RC1","10:34",0,0,1,72,"GCKI",1,"a",NA,"","unverifiable"
+2023-07-20,"ZHK","merlin","iPhone 14","RC1","10:34",0,0,1,72,"YRWA",1,"a",NA,"audio files","yes"
+2023-07-20,"ZHK","merlin","iPhone 14","RC1","10:34",0,0,1,72,"BTNW",1,"a",NA,"","yes"
+2023-07-20,"ZHK","merlin","iPhone 14","RC1","10:34",0,0,1,72,"WTSP",1,"a",NA,"","yes"
+2023-07-20,"EDH","merlin","iPhone SE","RC1","10:34",0,0,1,72,"YRWA",1,"a",NA,"audio files","yes"
+2023-07-20,"EDH","merlin","iPhone SE","RC1","10:34",0,0,1,72,"BTNW",1,"a",NA,"","yes"
+2023-07-20,"EDH","merlin","iPhone SE","RC1","10:34",0,0,1,72,"HETH",1,"a",NA,"","yes"
+2023-07-20,"EDH","merlin","iPhone SE","RC1","10:34",0,0,1,72,"WTSP",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC1","10:34",0,0,1,72,"YRWA",1,"a",NA,"audio files","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC1","10:34",0,0,1,72,"BTNW",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC1","10:34",0,0,1,72,"WTSP",1,"a",NA,"","yes"
+2023-07-20,"KL","playback",NA,"RC1","10:34",0,0,1,72,"BTNW",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC1","10:34",0,0,1,72,"YRWA",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC1","10:34",0,0,1,72,"HETH",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC1","10:34",0,0,1,72,"WTSP",NA,"a",NA,"",NA
+2023-07-20,"BDG","hearing","human","RC10","12:12",0,0,1,74,"HETH",1,"a","o","","yes"
+2023-07-20,"BDG","hearing","human","RC10","12:12",0,0,1,74,"BTNW",1,"a","u","","yes"
+2023-07-20,"BDG","hearing","human","RC10","12:12",0,0,1,74,"REVI",1,"a","o","","yes"
+2023-07-20,"ZHK","merlin","iPhone 14","RC10","12:12",0,0,1,74,"BTNW",1,"a",NA,"","yes"
+2023-07-20,"ZHK","merlin","iPhone 14","RC10","12:12",0,0,1,74,"HETH",1,"a",NA,"","yes"
+2023-07-20,"ZHK","merlin","iPhone 14","RC10","12:12",0,0,1,74,"REVI",1,"a",NA,"","yes"
+2023-07-20,"EDH","merlin","iPhone SE","RC10","12:12",0,0,1,74,"HETH",1,"a",NA,"","yes"
+2023-07-20,"EDH","merlin","iPhone SE","RC10","12:12",0,0,1,74,"BTNW",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC10","12:12",0,0,1,74,"BTNW",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC10","12:12",0,0,1,74,"HETH",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC10","12:12",0,0,1,74,"BCCH",1,"a",NA,"","no"
+2023-07-20,"KL","playback",NA,"RC10","12:12",0,0,1,74,"BTNW",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC10","12:12",0,0,1,74,"HETH",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC10","12:12",0,0,1,74,"REVI",NA,"a",NA,"",NA
+2023-07-20,"BDG","hearing","human","RC2","10:46",0,0,1,72,"YRWA",1,"a",NA,"","yes"
+2023-07-20,"BDG","hearing","human","RC2","10:46",0,0,1,72,"BTNW",1,"a",NA,"","yes"
+2023-07-20,"BDG","hearing","human","RC2","10:46",0,0,1,72,"REVI",1,"a",NA,"","yes"
+2023-07-20,"ZHK","merlin","iPhone 14","RC2","10:46",0,0,1,72,"YRWA",1,"a",NA,"","yes"
+2023-07-20,"ZHK","merlin","iPhone 14","RC2","10:46",0,0,1,72,"DEJU",1,"a",NA,"","no"
+2023-07-20,"EDH","merlin","iPhone SE","RC2","10:46",0,0,1,72,"YRWA",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC2","10:46",0,0,1,72,"YRWA",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC2","10:46",0,0,1,72,"DEJU",1,"a",NA,"","no"
+2023-07-20,"KL","playback",NA,"RC2","10:46",0,0,1,72,"YRWA",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC2","10:46",0,0,1,72,"BTNW",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC2","10:46",0,0,1,72,"REVI",NA,"a",NA,"",NA
+2023-07-20,"BDG","hearing","human","RC3","10:57",0,0,1,72,"REVI",1,"a","u","","yes"
+2023-07-20,"BDG","hearing","human","RC3","10:57",0,0,1,72,"BTNW",2,"a","u","","yes"
+2023-07-20,"BDG","hearing","human","RC3","10:57",0,0,1,72,"BWHA",1,"a",NA,"","yes"
+2023-07-20,"ZHK","merlin","iPhone 14","RC3","10:57",0,0,1,72,"REVI",1,"a",NA,"","yes"
+2023-07-20,"ZHK","merlin","iPhone 14","RC3","10:57",0,0,1,72,"BTNW",1,"a",NA,"","yes"
+2023-07-20,"EDH","merlin","iPhone SE","RC3","10:57",0,0,1,72,"REVI",1,"a",NA,"","yes"
+2023-07-20,"EDH","merlin","iPhone SE","RC3","10:57",0,0,1,72,"BTNW",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC3","10:57",0,0,1,72,"REVI",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC3","10:57",0,0,1,72,"BTNW",1,"a",NA,"","yes"
+2023-07-20,"KL","playback",NA,"RC3","10:57",0,0,1,72,"REVI",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC3","10:57",0,0,1,72,"BTNW",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC3","10:57",0,0,1,72,"NAWA",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC3","10:57",0,0,1,72,"BWHA",NA,"a",NA,"",NA
+2023-07-20,"BDG","hearing","human","RC4","11:08",0,0,2,72,"BTNW",1,"a",NA,"","yes"
+2023-07-20,"BDG","hearing","human","RC4","11:08",0,0,2,72,"REVI",1,"a",NA,"","yes"
+2023-07-20,"BDG","hearing","human","RC4","11:08",0,0,2,72,"NAWA",1,"a",NA,"","yes"
+2023-07-20,"BDG","hearing","human","RC4","11:08",0,0,2,72,"OVEN",1,"a",NA,"","yes"
+2023-07-20,"ZHK","merlin","iPhone 14","RC4","11:08",0,0,2,72,"BTNW",1,"a",NA,"","yes"
+2023-07-20,"ZHK","merlin","iPhone 14","RC4","11:08",0,0,2,72,"REVI",1,"a",NA,"","yes"
+2023-07-20,"ZHK","merlin","iPhone 14","RC4","11:08",0,0,2,72,"NOCA",1,"a",NA,"","no"
+2023-07-20,"ZHK","merlin","iPhone 14","RC4","11:08",0,0,2,72,"NAWA",1,"a",NA,"","yes"
+2023-07-20,"ZHK","merlin","iPhone 14","RC4","11:08",0,0,2,72,"AGOL",1,"a",NA,"","yes"
+2023-07-20,"EDH","merlin","iPhone SE","RC4","11:08",0,0,2,72,"BTNW",1,"a",NA,"","yes"
+2023-07-20,"EDH","merlin","iPhone SE","RC4","11:08",0,0,2,72,"NAWA",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC4","11:08",0,0,2,72,"REVI",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC4","11:08",0,0,2,72,"BTNW",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC4","11:08",0,0,2,72,"NOCA",1,"a",NA,"","no"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC4","11:08",0,0,2,72,"NAWA",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC4","11:08",0,0,2,72,"AGOL",1,"a",NA,"","yes"
+2023-07-20,"KL","playback",NA,"RC4","11:08",0,0,2,72,"BTNW",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC4","11:08",0,0,2,72,"REVI",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC4","11:08",0,0,2,72,"NAWA",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC4","11:08",0,0,2,72,"AGOL",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC4","11:08",0,0,2,72,"OVEN",NA,"a",NA,"",NA
+2023-07-20,"BDG","hearing","human","RC5","11:17",0,0,1,74,"HETH",2,"a",NA,"","yes"
+2023-07-20,"BDG","hearing","human","RC5","11:17",0,0,1,74,"MAWA",1,"a",NA,"","yes"
+2023-07-20,"EDH","merlin","iPhone SE","RC5","11:17",0,0,1,74,"CEDW",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC5","11:17",0,0,1,74,"HETH",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC5","11:17",0,0,1,74,"CEDW",1,"a",NA,"","yes"
+2023-07-20,"KL","playback",NA,"RC5","11:17",0,0,1,74,"HETH",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC5","11:17",0,0,1,74,"BTNW",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC5","11:17",0,0,1,74,"CEDW",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC5","11:17",0,0,1,74,"MAWA",NA,"a",NA,"",NA
+2023-07-20,"BDG","hearing","human","RC6","11:30",0,0,1,74,"BTNW",1,"a","u","","yes"
+2023-07-20,"BDG","hearing","human","RC6","11:30",0,0,1,74,"HETH",2,"a","u","","yes"
+2023-07-20,"BDG","hearing","human","RC6","11:30",0,0,1,74,"MODO",1,"a","o","","yes"
+2023-07-20,"ZHK","merlin","iPhone 14","RC6","11:30",0,0,1,74,"BTNW",1,"a",NA,"","yes"
+2023-07-20,"ZHK","merlin","iPhone 14","RC6","11:30",0,0,1,74,"HETH",1,"a",NA,"","yes"
+2023-07-20,"EDH","merlin","iPhone SE","RC6","11:30",0,0,1,74,"BTNW",1,"a",NA,"","yes"
+2023-07-20,"EDH","merlin","iPhone SE","RC6","11:30",0,0,1,74,"HETH",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC6","11:30",0,0,1,74,"BTNW",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC6","11:30",0,0,1,74,"HETH",1,"a",NA,"","yes"
+2023-07-20,"KL","playback",NA,"RC6","11:30",0,0,1,74,"HETH",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC6","11:30",0,0,1,74,"BTNW",NA,"a",NA,"",NA
+2023-07-26,"BDG","hearing","human","RC1","9:55",0,0,1,70,"OSPR",1,"a","o","","yes"
+2023-07-26,"BDG","hearing","human","RC1","9:55",0,0,1,70,"YRWA",1,"a","u","","no"
+2023-07-26,"BDG","hearing","human","RC1","9:55",0,0,1,70,"RBNU",1,"a","u","","unverifiable"
+2023-07-26,"BDG","hearing","human","RC1","9:55",0,0,1,70,"WTSP",1,"a","o","","unverifiable"
+2023-07-26,"BDG","hearing","human","RC1","9:55",0,0,1,70,"BCCH",1,"a","u","","yes"
+2023-07-26,"EDH","merlin","iPhone SE","RC1","9:55",0,0,1,70,"BAWW",1,"a",NA,"audio files","yes"
+2023-07-26,"EDH","merlin","iPhone SE","RC1","9:55",0,0,1,70,"OSPR",1,"a",NA,"","yes"
+2023-07-26,"EDH","merlin","iPhone SE","RC1","9:55",0,0,1,70,"BCCH",1,"a",NA,"","yes"
+2023-07-26,"KL","playback",NA,"RC1","9:55",0,0,1,70,"OSPR",NA,"a",NA,"",NA
+2023-07-26,"KL","playback",NA,"RC1","9:55",0,0,1,70,"BAWW",NA,"a",NA,"",NA
+2023-07-26,"KL","playback",NA,"RC1","9:55",0,0,1,70,"BTNW",NA,"a",NA,"",NA
+2023-07-26,"KL","playback",NA,"RC1","9:55",0,0,1,70,"BCCH",NA,"a",NA,"",NA
+2023-07-26,"BDG","hearing","human","RC10","12:01",0,0,1,74,"BTNW",3,"a","u","","yes"
+2023-07-26,"BDG","hearing","human","RC10","12:01",0,0,1,74,"REVI",1,"a","o","","yes"
+2023-07-26,"BDG","hearing","human","RC10","12:01",0,0,1,74,"GCKI",1,"a","u","","yes"
+2023-07-26,"EDH","merlin","iPhone SE","RC10","12:01",0,0,1,74,"BTNW",1,"a",NA,"","yes"
+2023-07-26,"EDH","merlin","iPhone SE","RC10","12:01",0,0,1,74,"GCKI",1,"a",NA,"","yes"
+2023-07-26,"KL","playback",NA,"RC10","12:01",0,0,1,74,"GCKI",NA,"a",NA,"",NA
+2023-07-26,"KL","playback",NA,"RC10","12:01",0,0,1,74,"REVI",NA,"a",NA,"",NA
+2023-07-26,"KL","playback",NA,"RC10","12:01",0,0,1,74,"BTNW",NA,"a",NA,"",NA
+2023-07-26,"BDG","hearing","human","RC2","10:11",0,0,1,70,"AMCR",2,"a","o","","yes"
+2023-07-26,"BDG","hearing","human","RC2","10:11",0,0,1,70,"OSPR",1,"a","o","","unverifiable"
+2023-07-26,"BDG","hearing","human","RC2","10:11",0,0,1,70,"REVI",1,"a","o","","unverifiable"
+2023-07-26,"BDG","hearing","human","RC2","10:11",0,0,1,70,"UNK",1,"a","o","",NA
+2023-07-26,"EDH","merlin","iPhone SE","RC2","10:11",0,0,1,70,"AMCR",1,"a",NA,"","yes"
+2023-07-26,"KL","playback",NA,"RC2","10:11",0,0,1,70,"AMCR",NA,"a",NA,"",NA
+2023-07-26,"KL","playback",NA,"RC2","10:11",0,0,1,70,"HOFI",NA,"a",NA,"",NA
+2023-07-26,"BDG","hearing","human","RC3","10:24",0,0,1,70,"REVI",2,"a","u","","yes"
+2023-07-26,"BDG","hearing","human","RC3","10:24",0,0,1,70,"AMCR",2,"a","o","","unverifiable"
+2023-07-26,"BDG","hearing","human","RC3","10:24",0,0,1,70,"BTNW",3,"a","o","","yes"
+2023-07-26,"EDH","merlin","iPhone SE","RC3","10:24",0,0,1,70,"REVI",1,"a",NA,"","yes"
+2023-07-26,"EDH","merlin","iPhone SE","RC3","10:24",0,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-26,"KL","playback",NA,"RC3","10:24",0,0,1,70,"REVI",NA,"a",NA,"",NA
+2023-07-26,"KL","playback",NA,"RC3","10:24",0,0,1,70,"BTNW",NA,"a",NA,"",NA
+2023-07-26,"BDG","hearing","human","RC4","10:36",0,0,1,70,"BTNW",1,"a","u","","yes"
+2023-07-26,"BDG","hearing","human","RC4","10:36",0,0,1,70,"NOCA",2,"a","u","","no"
+2023-07-26,"BDG","hearing","human","RC4","10:36",0,0,1,70,"REVI",2,"a","u","","yes"
+2023-07-26,"BDG","hearing","human","RC4","10:36",0,0,1,70,"HETH",2,"a","u","","yes"
+2023-07-26,"BDG","hearing","human","RC4","10:36",0,0,1,70,"WTSP",1,"a","u","","yes"
+2023-07-26,"BDG","hearing","human","RC4","10:36",0,0,1,70,"OVEN",1,"a","u","","yes"
+2023-07-26,"BDG","hearing","human","RC4","10:36",0,0,1,70,"AMCR",1,"a","o","","unverifiable"
+2023-07-26,"EDH","merlin","iPhone SE","RC4","10:36",0,0,1,70,"REVI",1,"a",NA,"","yes"
+2023-07-26,"EDH","merlin","iPhone SE","RC4","10:36",0,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-26,"EDH","merlin","iPhone SE","RC4","10:36",0,0,1,70,"NAWA",1,"a",NA,"","no"
+2023-07-26,"EDH","merlin","iPhone SE","RC4","10:36",0,0,1,70,"OVEN",1,"a",NA,"","yes"
+2023-07-26,"EDH","merlin","iPhone SE","RC4","10:36",0,0,1,70,"HETH",1,"a",NA,"","yes"
+2023-07-26,"EDH","merlin","iPhone SE","RC4","10:36",0,0,1,70,"WTSP",1,"a",NA,"","yes"
+2023-07-26,"KL","playback",NA,"RC4","10:36",0,0,1,70,"REVI",NA,"a",NA,"",NA
+2023-07-26,"KL","playback",NA,"RC4","10:36",0,0,1,70,"BTNW",NA,"a",NA,"",NA
+2023-07-26,"KL","playback",NA,"RC4","10:36",0,0,1,70,"OVEN",NA,"a",NA,"",NA
+2023-07-26,"KL","playback",NA,"RC4","10:36",0,0,1,70,"HETH",NA,"a",NA,"",NA
+2023-07-26,"KL","playback",NA,"RC4","10:36",0,0,1,70,"WTSP",NA,"a",NA,"",NA
+2023-07-26,"KL","playback",NA,"RC4","10:36",0,0,1,70,"warbler sp.",NA,"a",NA,"",NA
+2023-07-26,"BDG","hearing","human","RC5","10:47",0,0,1,74,"HETH",2,"a","o","","yes"
+2023-07-26,"BDG","hearing","human","RC5","10:47",0,0,1,74,"BHVI",1,"a","u","","yes"
+2023-07-26,"BDG","hearing","human","RC5","10:47",0,0,1,74,"MAWA",1,"a","u","","no"
+2023-07-26,"BDG","hearing","human","RC5","10:47",0,0,1,74,"NOFL",1,"a","u","","yes"
+2023-07-26,"EDH","merlin","iPhone SE","RC5","10:47",0,0,1,74,"BHVI",1,"a",NA,"","yes"
+2023-07-26,"EDH","merlin","iPhone SE","RC5","10:47",0,0,1,74,"NOFL",1,"a",NA,"","yes"
+2023-08-03,"EDH","hearing","human","RC1","12:11",0,1,1,68,"REVI",1,"a","o","","unverifiable"
+2023-08-03,"EDH","hearing","human","RC1","12:11",0,1,1,68,"AMCR",1,"a","o","","unverifiable"
+2023-08-03,"EDH","hearing","human","RC1","12:11",0,1,1,68,"CEDW",2,"a","u","","yes"
+2023-08-03,"EDH","merlin","iPhone SE","RC1","12:11",0,1,1,68,"CEDW",1,"a",NA,"","yes"
+2023-08-03,"KL","playback",NA,"RC1","12:11",0,1,1,68,"CEDW",NA,"a",NA,"",NA
+2023-08-03,"BDG","hearing","human","RC10","10:41",0,1,1,64,"REVI",1,"a","o","","yes"
+2023-08-03,"EDH","merlin","iPhone SE","RC10","10:41",0,1,1,64,"none",NA,NA,NA,"",NA
+2023-08-03,"KL","playback",NA,"RC10","10:41",0,1,1,64,"REVI",NA,"a",NA,"",NA
+2023-08-03,"BDG","merlin","iPhone 14","RC2","12:22",0,1,1,68,"BCCH",1,"a",NA,"","yes"
+2023-08-03,"EDH","hearing","human","RC2","12:22",0,1,1,68,"BCCH",2,"a","u","","yes"
+2023-08-03,"EDH","hearing","human","RC2","12:22",0,1,1,68,"RBNU",1,"a","o","","unverifiable"
+2023-08-03,"EDH","hearing","human","RC2","12:22",0,1,1,68,"UNK",1,"a","u","",NA
+2023-08-03,"EDH","hearing","human","RC2","12:22",0,1,1,68,"WTSP",1,"a","o","","unverifiable"
+2023-08-03,"EDH","hearing","human","RC2","12:22",0,1,1,68,"UNK",1,"a","o","",NA
+2023-08-03,"KL","playback",NA,"RC2","12:22",0,1,1,68,"GCKI",NA,"a",NA,"",NA
+2023-08-03,"KL","playback",NA,"RC2","12:22",0,1,1,68,"BCCH",NA,"a",NA,"",NA
+2023-08-03,"BDG","hearing","human","RC3","12:12",0,1,1,68,"REVI",1,"a","u","","yes"
+2023-08-03,"BDG","hearing","human","RC3","12:12",0,1,1,68,"BTNW",1,"a","o","","yes"
+2023-08-03,"BDG","merlin","iPhone 14","RC3","12:12",0,1,1,68,"REVI",1,"a",NA,"audio files","yes"
+2023-08-03,"KL","playback",NA,"RC3","12:12",0,1,1,68,"REVI",NA,"a",NA,"",NA
+2023-08-03,"KL","playback",NA,"RC3","12:12",0,1,1,68,"BTNW",NA,"a",NA,"",NA
+2023-08-03,"BDG","hearing","human","RC4","12:02",0,1,1,68,"none",NA,NA,NA,"",NA
+2023-08-03,"BDG","merlin","iPhone 14","RC4","12:02",0,1,1,68,"none",NA,NA,NA,"audio files",NA
+2023-08-03,"KL","playback",NA,"RC4","12:02",0,1,1,68,"none",NA,NA,NA,"",NA
+2023-08-07,"BDG","hearing","human","RC1","10:15",1,0,0,67,"BWHA",1,"a","o","","yes"
+2023-08-07,"BDG","hearing","human","RC1","10:15",1,0,0,67,"MODO",1,"a","o","","unverifiable"
+2023-08-07,"BDG","hearing","human","RC1","10:15",1,0,0,67,"REVI",1,"a","o","","no"
+2023-08-07,"JMK","merlin","iPhone 14","RC1","10:15",1,0,0,67,"none",NA,NA,NA,"",NA
+2023-08-07,"ZHK","merlin","iPhone 14","RC1","10:15",1,0,0,67,"none",NA,NA,NA,"",NA
+2023-08-07,"KL","playback",NA,"RC1","10:15",1,0,0,67,"BWHA",NA,"a",NA,"",NA
+2023-08-07,"KL","playback",NA,"RC1","10:15",1,0,0,67,"BHVI",NA,"a",NA,"",NA
+2023-08-07,"BDG","hearing","human","RC10","8:30",1,0,0,67,"HETH",2,"a","u","","yes"
+2023-08-07,"BDG","hearing","human","RC10","8:30",1,0,0,67,"REVI",1,"a","u","","yes"
+2023-08-07,"BDG","hearing","human","RC10","8:30",1,0,0,67,"NOPA",1,"a","o","","yes"
+2023-08-07,"BDG","hearing","human","RC10","8:30",1,0,0,67,"UNK",1,"a","u","",NA
+2023-08-07,"JMK","merlin","iPhone 14","RC10","8:30",1,0,0,67,"REVI",1,"a",NA,"","yes"
+2023-08-07,"JMK","merlin","iPhone 14","RC10","8:30",1,0,0,67,"HETH",1,"a",NA,"","yes"
+2023-08-07,"JMK","merlin","iPhone 14","RC10","8:30",1,0,0,67,"WOTH",1,"a",NA,"","no"
+2023-08-07,"ZHK","merlin","iPhone 14","RC10","8:30",1,0,0,67,"HETH",1,"a",NA,"","yes"
+2023-08-07,"ZHK","merlin","iPhone 14","RC10","8:30",1,0,0,67,"REVI",1,"a",NA,"","yes"
+2023-08-07,"KL","playback",NA,"RC10","8:30",1,0,0,67,"warbler sp.",NA,"a",NA,"",NA
+2023-08-07,"KL","playback",NA,"RC10","8:30",1,0,0,67,"REVI",NA,"a",NA,"",NA
+2023-08-07,"KL","playback",NA,"RC10","8:30",1,0,0,67,"HETH",NA,"a",NA,"",NA
+2023-08-07,"KL","playback",NA,"RC10","8:30",1,0,0,67,"NOPA",NA,"a",NA,"",NA
+2023-08-07,"BDG","hearing","human","RC2","10:05",1,0,0,67,"MODO",1,"a","o","","unverifiable"
+2023-08-07,"BDG","hearing","human","RC2","10:05",1,0,0,67,"UNK",1,"a","u","probably the red crossbill?",NA
+2023-08-07,"BDG","hearing","human","RC2","10:05",1,0,0,67,"REVI",1,"a","o","","no"
+2023-08-07,"JMK","merlin","iPhone 14","RC2","10:05",1,0,0,67,"none",NA,NA,NA,"",NA
+2023-08-07,"ZHK","merlin","iPhone 14","RC2","10:05",1,0,0,67,"none",NA,NA,NA,"",NA
+2023-08-07,"KL","playback",NA,"RC2","10:05",1,0,0,67,"RECR",NA,"a",NA,"",NA
+2023-08-07,"KL","playback",NA,"RC2","10:05",1,0,0,67,"BHVI",NA,"a",NA,"",NA
+2023-08-07,"BDG","hearing","human","RC3","9:53",1,0,0,67,"REVI",1,"a","o","","yes"
+2023-08-07,"BDG","hearing","human","RC3","9:53",1,0,0,67,"MODO",1,"a","o","","yes"
+2023-08-07,"BDG","hearing","human","RC3","9:53",1,0,0,67,"UNK",1,"a","u","",NA
+2023-08-07,"BDG","hearing","human","RC3","9:53",1,0,0,67,"RBNU",1,"a","o","","unverifiable"
+2023-08-07,"JMK","merlin","iPhone 14","RC3","9:53",1,0,0,67,"BHVI",1,"a",NA,"audio files","yes"
+2023-08-07,"JMK","merlin","iPhone 14","RC3","9:53",1,0,0,67,"GCKI",1,"a",NA,"","yes"
+2023-08-07,"JMK","merlin","iPhone 14","RC3","9:53",1,0,0,67,"MODO",1,"a",NA,"","yes"
+2023-08-07,"ZHK","merlin","iPhone 14","RC3","9:53",1,0,0,67,"BHVI",1,"a",NA,"audio files","yes"
+2023-08-07,"ZHK","merlin","iPhone 14","RC3","9:53",1,0,0,67,"GCKI",1,"a",NA,"","yes"
+2023-08-07,"KL","playback",NA,"RC3","9:53",1,0,0,67,"REVI",NA,"a",NA,"",NA
+2023-08-07,"KL","playback",NA,"RC3","9:53",1,0,0,67,"MODO",NA,"a",NA,"",NA
+2023-08-07,"KL","playback",NA,"RC3","9:53",1,0,0,67,"BHVI",NA,"a",NA,"",NA
+2023-08-07,"KL","playback",NA,"RC3","9:53",1,0,0,67,"GCKI",NA,"a",NA,"",NA
+2023-08-07,"BDG","hearing","human","RC4","9:36",1,0,0,67,"BCCH",4,"a","u","","yes"
+2023-08-07,"BDG","hearing","human","RC4","9:36",1,0,0,67,"MODO",1,"a","o","","unverifiable"
+2023-08-07,"BDG","hearing","human","RC4","9:36",1,0,0,67,"REVI",1,"a","o","","yes"
+2023-08-07,"BDG","hearing","human","RC4","9:36",1,0,0,67,"RBNU",1,"a","u","","yes"
+2023-08-07,"JMK","merlin","iPhone 14","RC4","9:36",1,0,0,67,"BCCH",1,"a",NA,"","yes"
+2023-08-07,"JMK","merlin","iPhone 14","RC4","9:36",1,0,0,67,"REVI",1,"a",NA,"","yes"
+2023-08-07,"JMK","merlin","iPhone 14","RC4","9:36",1,0,0,67,"YRWA",1,"a",NA,"","yes"
+2023-08-07,"ZHK","merlin","iPhone 14","RC4","9:36",1,0,0,67,"BCCH",1,"a",NA,"","yes"
+2023-08-07,"KL","playback",NA,"RC4","9:36",1,0,0,67,"BCCH",NA,"a",NA,"",NA
+2023-08-07,"KL","playback",NA,"RC4","9:36",1,0,0,67,"REVI",NA,"a",NA,"",NA
+2023-08-07,"KL","playback",NA,"RC4","9:36",1,0,0,67,"RBNU",NA,"a",NA,"",NA
+2023-08-07,"KL","playback",NA,"RC4","9:36",1,0,0,67,"YRWA",NA,"a",NA,"",NA
+2023-08-07,"BDG","hearing","human","RC5","9:27",1,0,0,67,"AMCR",1,"v","u","","unverifiable"
+2023-08-07,"BDG","hearing","human","RC5","9:27",1,0,0,67,"UNK",1,"a","u","",NA
+2023-08-07,"BDG","hearing","human","RC5","9:27",1,0,0,67,"REVI",1,"a","u","","yes"
+2023-08-07,"BDG","hearing","human","RC5","9:27",1,0,0,67,"NOFL",1,"a","u","","no"
+2023-08-07,"JMK","merlin","iPhone 14","RC5","9:27",1,0,0,67,"none",NA,NA,NA,"",NA
+2023-08-07,"ZHK","merlin","iPhone 14","RC5","9:27",1,0,0,67,"none",NA,NA,NA,"",NA
+2023-08-16,"BDG","hearing","human","RC1","6:43",2,0,1,60,"AMCR",1,"a","o","","unverifiable"
+2023-08-16,"BDG","hearing","human","RC1","6:43",2,0,1,60,"REVI",1,"a","o","","unverifiable"
+2023-08-16,"BDG","hearing","human","RC1","6:43",2,0,1,60,"RBNU",1,"a","o","","unverifiable"
+2023-08-16,"EJD","merlin","iPhone 12 Pro","RC1","6:43",2,0,1,60,"none",NA,NA,NA,"",NA
+2023-08-16,"KL","playback",NA,"RC1","6:43",2,0,1,60,"none",NA,NA,NA,"",NA
+2023-08-16,"BDG","hearing","human","RC10","8:27",2,0,1,61,"BCCH",1,"a","o","","yes"
+2023-08-16,"BDG","hearing","human","RC10","8:27",2,0,1,61,"REVI",1,"a","o","","yes"
+2023-08-16,"BDG","hearing","human","RC10","8:27",2,0,1,61,"NOFL",1,"a","o","","unverifiable"
+2023-08-16,"BDG","hearing","human","RC10","8:27",2,0,1,61,"CEDW",1,"a","o","","yes"
+2023-08-16,"EJD","merlin","iPhone 12 Pro","RC10","8:27",2,0,1,61,"REVI",1,"a",NA,"","yes"
+2023-08-16,"EJD","merlin","iPhone 12 Pro","RC10","8:27",2,0,1,61,"CEDW",1,"a",NA,"","yes"
+2023-08-16,"KL","playback",NA,"RC10","8:27",2,0,1,61,"warbler sp.",NA,"a",NA,"",NA
+2023-08-16,"KL","playback",NA,"RC10","8:27",2,0,1,61,"REVI",NA,"a",NA,"",NA
+2023-08-16,"KL","playback",NA,"RC10","8:27",2,0,1,61,"BCCH",NA,"a",NA,"",NA
+2023-08-16,"KL","playback",NA,"RC10","8:27",2,0,1,61,"CEDW",NA,"a",NA,"",NA
+2023-08-16,"BDG","hearing","human","RC2","6:50",2,0,1,60,"RBNU",1,"a","u","","yes"
+2023-08-16,"BDG","hearing","human","RC2","6:50",2,0,1,60,"HERG",1,"a","o","","unverifiable"
+2023-08-16,"BDG","hearing","human","RC2","6:50",2,0,1,60,"AMCR",2,"a","o","","unverifiable"
+2023-08-16,"BDG","hearing","human","RC2","6:50",2,0,1,60,"CEDW",3,"a","u","","no"
+2023-08-16,"EJD","merlin","iPhone 12 Pro","RC2","6:50",2,0,1,60,"BRCR",1,"a",NA,"audio files","yes"
+2023-08-16,"EJD","merlin","iPhone 12 Pro","RC2","6:50",2,0,1,60,"RBNU",1,"a",NA,"","yes"
+2023-08-16,"KL","playback",NA,"RC2","6:50",2,0,1,60,"BRCR",NA,"a",NA,"",NA
+2023-08-16,"KL","playback",NA,"RC2","6:50",2,0,1,60,"RBNU",NA,"a",NA,"",NA
+2023-08-16,"BDG","hearing","human","RC3","7:02",2,0,1,60,"BCCH",1,"a","o","","unverifiable"
+2023-08-16,"BDG","hearing","human","RC3","7:02",2,0,1,60,"REVI",1,"a","u","","yes"
+2023-08-16,"BDG","hearing","human","RC3","7:02",2,0,1,60,"CEDW",1,"a","u","","no"
+2023-08-16,"EJD","merlin","iPhone 12 Pro","RC3","7:02",2,0,1,60,"HETH",1,"a",NA,"","yes"
+2023-08-16,"EJD","merlin","iPhone 12 Pro","RC3","7:02",2,0,1,60,"REVI",1,"a",NA,"","yes"
+2023-08-16,"EJD","merlin","iPhone 12 Pro","RC3","7:02",2,0,1,60,"BRCR",1,"a",NA,"","no"
+2023-08-16,"KL","playback",NA,"RC3","7:02",2,0,1,60,"HETH",NA,"a",NA,"",NA
+2023-08-16,"KL","playback",NA,"RC3","7:02",2,0,1,60,"REVI",NA,"a",NA,"",NA
+2023-08-16,"KL","playback",NA,"RC3","7:02",2,0,1,60,"warbler sp.",NA,"a",NA,"Three calls in sequence",NA
+2023-08-16,"KL","playback",NA,"RC3","7:02",2,0,1,60,"AMRO",NA,"a",NA,"",NA
+2023-08-16,"BDG","hearing","human","RC4","7:20",2,0,1,60,"DEJU",1,"a","o","","unverifiable"
+2023-08-16,"BDG","hearing","human","RC4","7:20",2,0,1,60,"BCCH",1,"a","o","","yes"
+2023-08-16,"BDG","hearing","human","RC4","7:20",2,0,1,60,"AMRO",1,"a","u","","yes"
+2023-08-16,"EJD","merlin","iPhone 12 Pro","RC4","7:20",2,0,1,60,"none",NA,NA,NA,"",NA
+2023-08-16,"KL","playback",NA,"RC4","7:20",2,0,1,60,"BCCH",NA,"a",NA,"",NA
+2023-08-16,"KL","playback",NA,"RC4","7:20",2,0,1,60,"bird sp.",NA,"a",NA,"sharp, higher call note",NA
+2023-08-16,"KL","playback",NA,"RC4","7:20",2,0,1,60,"AMRO",NA,"a",NA,"",NA
+2023-08-16,"BDG","hearing","human","RC5","7:27",2,0,1,61,"AMRO",3,"a","u","","yes"
+2023-08-16,"BDG","hearing","human","RC5","7:27",2,0,1,61,"BCCH",2,"a","o","","yes"
+2023-08-16,"BDG","hearing","human","RC5","7:27",2,0,1,61,"EAKI",6,"a","u","","yes"
+2023-08-16,"EJD","merlin","iPhone 12 Pro","RC5","7:27",2,0,1,61,"AMRO",1,"a",NA,"","yes"
+2023-08-24,"EDH","hearing","human","RC1","6:53",0,0,1,59,"HETH",1,"a","o","","unverifiable"
+2023-08-24,"EDH","hearing","human","RC1","6:53",0,0,1,59,"AMCR",1,"a","o","","unverifiable"
+2023-08-24,"AB","merlin","iPhone 13 Mini","RC1","6:53",0,0,1,59,"none",NA,NA,NA,"",NA
+2023-08-24,"KL","playback",NA,"RC1","6:53",0,0,1,59,"PUFI",NA,"a",NA,"",NA
+2023-08-24,"AB","merlin","iPhone 13 Mini","RC10","8:44",0,1,2,61,"CEDW",1,"a",NA,"","yes"
+2023-08-24,"AB","merlin","iPhone 13 Mini","RC10","8:44",0,1,2,61,"OVEN",1,"a",NA,"","no"
+2023-08-24,"EDH","hearing","human","RC10","8:44",0,1,2,61,"GCKI",1,"a","u","","no"
+2023-08-24,"EDH","hearing","human","RC10","8:44",0,1,2,61,"CEDW",1,"v","u","","yes"
+2023-08-24,"EDH","hearing","human","RC10","8:44",0,1,2,61,"UNK",1,"a","u","",NA
+2023-08-24,"EDH","hearing","human","RC10","8:44",0,1,2,61,"MODO",1,"a","o","","unverifiable"
+2023-08-24,"EDH","hearing","human","RC10","8:44",0,1,2,61,"UNK",1,"a","u","",NA
+2023-08-24,"KL","playback",NA,"RC10","8:44",0,1,2,61,"CEDW",NA,"a",NA,"",NA
+2023-08-24,"KL","playback",NA,"RC10","8:44",0,1,2,61,"AMRO",NA,"a",NA,"",NA
+2023-08-24,"KL","playback",NA,"RC10","8:44",0,1,2,61,"warbler sp.",NA,"a",NA,"",NA
+2023-08-24,"AB","merlin","iPhone 13 Mini","RC2","7:05",0,0,1,59,"AMCR",1,"a",NA,"","yes"
+2023-08-24,"EDH","hearing","human","RC2","7:05",0,0,1,59,"AMCR",2,"a","o","","yes"
+2023-08-24,"EDH","hearing","human","RC2","7:05",0,0,1,59,"GCKI",1,"a","u","","yes"
+2023-08-24,"EDH","hearing","human","RC2","7:05",0,0,1,59,"UNK",1,"a","u","",NA
+2023-08-24,"KL","playback",NA,"RC2","7:05",0,0,1,59,"AMCR",NA,"a",NA,"",NA
+2023-08-24,"KL","playback",NA,"RC2","7:05",0,0,1,59,"GCKI",NA,"a",NA,"",NA
+2023-08-24,"KL","playback",NA,"RC2","7:05",0,0,1,59,"YRWA",NA,"a",NA,"",NA
+2023-08-24,"KL","playback",NA,"RC2","7:05",0,0,1,59,"warbler sp.",NA,"a",NA,"",NA
+2023-08-24,"AB","merlin","iPhone 13 Mini","RC3","7:17",0,1,1,59,"AMCR",1,"a",NA,"","yes"
+2023-08-24,"EDH","hearing","human","RC3","7:17",0,1,1,59,"AMCR",1,"a","o","","yes"
+2023-08-24,"EDH","hearing","human","RC3","7:17",0,1,1,59,"UNK",1,"a","o","",NA
+2023-08-24,"EDH","hearing","human","RC3","7:17",0,1,1,59,"MODO",1,"a","o","","unverifiable"
+2023-08-24,"KL","playback",NA,"RC3","7:17",0,1,1,59,"AMCR",NA,"a",NA,"",NA
+2023-08-24,"KL","playback",NA,"RC3","7:17",0,1,1,59,"CORA",NA,"a",NA,"",NA
+2023-08-24,"AB","merlin","iPhone 13 Mini","RC4","7:28",0,1,1,59,"REVI",1,"a",NA,"","yes"
+2023-08-24,"AB","merlin","iPhone 13 Mini","RC4","7:28",0,1,1,59,"DOWO",1,"a",NA,"","no"
+2023-08-24,"AB","merlin","iPhone 13 Mini","RC4","7:28",0,1,1,59,"HAWO",1,"a",NA,"","no"
+2023-08-24,"EDH","hearing","human","RC4","7:28",0,1,1,59,"REVI",1,"a","u","","yes"
+2023-08-24,"EDH","hearing","human","RC4","7:28",0,1,1,59,"UNK",1,"a","u","",NA
+2023-08-24,"EDH","hearing","human","RC4","7:28",0,1,1,59,"UNK",1,"v","u","",NA
+2023-08-24,"EDH","hearing","human","RC4","7:28",0,1,1,59,"UNK",1,"a","u","",NA
+2023-08-24,"KL","playback",NA,"RC4","7:28",0,1,1,59,"REVI",NA,"a",NA,"",NA
+2023-08-24,"KL","playback",NA,"RC4","7:28",0,1,1,59,"warbler sp.",NA,"a",NA,"",NA
+2023-08-24,"KL","playback",NA,"RC4","7:28",0,1,1,59,"SWTH",NA,"a",NA,"",NA
+2023-08-24,"AB","merlin","iPhone 13 Mini","RC5","7:41",0,1,1,61,"AMCR",1,"a",NA,"","yes"
+2023-08-24,"AB","merlin","iPhone 13 Mini","RC5","7:41",0,1,1,61,"DOWO",1,"a",NA,"","yes"
+2023-08-24,"EDH","hearing","human","RC5","7:41",0,1,1,61,"AMCR",1,"a","o","","yes"
+2023-08-24,"EDH","hearing","human","RC5","7:41",0,1,1,61,"UNK",1,"a","u","",NA
+2023-08-24,"EDH","hearing","human","RC5","7:41",0,1,1,61,"HAWO",1,"a","u","","yes"
+2023-08-24,"EDH","hearing","human","RC5","7:41",0,1,1,61,"MODO",1,"a","o","","unverifiable"
+2023-08-24,"KL","playback",NA,"RC5","7:41",0,1,1,61,"LEFL",NA,"a",NA,"",NA
+2023-08-24,"KL","playback",NA,"RC5","7:41",0,1,1,61,"warbler sp.",NA,"a",NA,"",NA
+2023-08-24,"KL","playback",NA,"RC5","7:41",0,1,1,61,"AMCR",NA,"a",NA,"",NA
+2023-08-24,"KL","playback",NA,"RC5","7:41",0,1,1,61,"HAWO",NA,"a",NA,"",NA
+2023-08-24,"KL","playback",NA,"RC5","7:41",0,1,1,61,"DOWO",NA,"a",NA,"",NA
+2023-09-03,"BDG","hearing","human","RC1","7:40",1,0,1,60,"AGOL",1,"a","u","","yes"
+2023-09-03,"BDG","hearing","human","RC1","7:40",1,0,1,60,"RBNU",1,"a","o","","yes"
+2023-09-03,"BDG","hearing","human","RC1","7:40",1,0,1,60,"BLJA",1,"a","u","","yes"
+2023-09-03,"BDG","hearing","human","RC1","7:40",1,0,1,60,"GCKI",1,"a","u","","no"
+2023-09-03,"KPM","merlin","iPhone 13","RC1","7:40",1,0,1,60,"none",NA,NA,NA,"",NA
+2023-09-03,"KL","playback",NA,"RC1","7:40",1,0,1,60,"AGOL",NA,"a",NA,"",NA
+2023-09-03,"KL","playback",NA,"RC1","7:40",1,0,1,60,"BRCR",NA,"a",NA,"",NA
+2023-09-03,"KL","playback",NA,"RC1","7:40",1,0,1,60,"BLJA",NA,"a",NA,"",NA
+2023-09-03,"KL","playback",NA,"RC1","7:40",1,0,1,60,"RBNU",NA,"a",NA,"",NA
+2023-09-03,"BDG","hearing","human","RC10","9:32",1,0,1,65,"RBNU",2,"a","u","","yes"
+2023-09-03,"KPM","merlin","iPhone 13","RC10","9:32",1,0,1,65,"RBNU",1,"a",NA,"","yes"
+2023-09-03,"KL","playback",NA,"RC10","9:32",1,0,1,65,"RBNU",NA,"a",NA,"",NA
+2023-09-03,"KL","playback",NA,"RC10","9:32",1,0,1,65,"bird sp.",NA,"a",NA,"",NA
+2023-09-03,"BDG","hearing","human","RC2","7:52",1,0,1,60,"BCCH",4,"a","u","","yes"
+2023-09-03,"BDG","hearing","human","RC2","7:52",1,0,1,60,"REVI",1,"a","u","","unverifiable"
+2023-09-03,"BDG","hearing","human","RC2","7:52",1,0,1,60,"AGOL",1,"a","u","","yes"
+2023-09-03,"BDG","hearing","human","RC2","7:52",1,0,1,60,"BTNW",1,"a","u","","yes"
+2023-09-03,"KPM","merlin","iPhone 13","RC2","7:52",1,0,1,60,"BCCH",1,"a",NA,"audio files","yes"
+2023-09-03,"KPM","merlin","iPhone 13","RC2","7:52",1,0,1,60,"AGOL",1,"a",NA,"","yes"
+2023-09-03,"KL","playback",NA,"RC2","7:52",1,0,1,60,"BCCH",NA,"a",NA,"",NA
+2023-09-03,"KL","playback",NA,"RC2","7:52",1,0,1,60,"BTNW",NA,"a",NA,"",NA
+2023-09-03,"KL","playback",NA,"RC2","7:52",1,0,1,60,"AGOL",NA,"a",NA,"",NA
+2023-09-03,"BDG","hearing","human","RC3","8:07",1,0,1,60,"REVI",1,"a","o","","unverifiable"
+2023-09-03,"BDG","hearing","human","RC3","8:07",1,0,1,60,"BLJA",1,"a","o","","unverifiable"
+2023-09-03,"BDG","hearing","human","RC3","8:07",1,0,1,60,"GCKI",1,"a","o","","unverifiable"
+2023-09-03,"KPM","merlin","iPhone 13","RC3","8:07",1,0,1,60,"none",NA,NA,NA,"",NA
+2023-09-03,"KL","playback",NA,"RC3","8:07",1,0,1,60,"none",NA,NA,NA,"",NA
+2023-09-03,"BDG","hearing","human","RC4","8:21",1,0,1,60,"BLJA",2,"a","u","","yes"
+2023-09-03,"BDG","hearing","human","RC4","8:21",1,0,1,60,"BCCH",3,"a","u","","yes"
+2023-09-03,"BDG","hearing","human","RC4","8:21",1,0,1,60,"MAWA",1,"a","o","","unverifiable"
+2023-09-03,"BDG","hearing","human","RC4","8:21",1,0,1,60,"BAWW",1,"a","o","","yes"
+2023-09-03,"KPM","merlin","iPhone 13","RC4","8:21",1,0,1,60,"BLJA",1,"a",NA,"","yes"
+2023-09-03,"KPM","merlin","iPhone 13","RC4","8:21",1,0,1,60,"BCCH",1,"a",NA,"","yes"
+2023-09-03,"KPM","merlin","iPhone 13","RC4","8:21",1,0,1,60,"BAWW",1,"a",NA,"","yes"
+2023-09-03,"KL","playback",NA,"RC4","8:21",1,0,1,60,"BLJA",NA,"a",NA,"",NA
+2023-09-03,"KL","playback",NA,"RC4","8:21",1,0,1,60,"BCCH",NA,"a",NA,"",NA
+2023-09-03,"KL","playback",NA,"RC4","8:21",1,0,1,60,"HAWO",NA,"a",NA,"",NA
+2023-09-10,"BDG","hearing","human","RC1","7:23",1,1,1,65,"CORA",1,"a","o","","yes"
+2023-09-10,"BDG","hearing","human","RC1","7:23",1,1,1,65,"BRCR",1,"a","u","","no"
+2023-09-10,"ZHK","merlin","iPhone 14","RC1","7:23",1,1,1,65,"CORA",1,"a",NA,"audio files","yes"
+2023-09-10,"ZHK","merlin","iPhone 14","RC1","7:23",1,1,1,65,"GCKI",1,"a",NA,"","yes"
+2023-09-10,"KL","playback",NA,"RC1","7:23",1,1,1,65,"CORA",NA,"a",NA,"",NA
+2023-09-10,"KL","playback",NA,"RC1","7:23",1,1,1,65,"warbler sp.",NA,"a",NA,"",NA
+2023-09-10,"KL","playback",NA,"RC1","7:23",1,1,1,65,"GCKI",NA,"a",NA,"",NA
+2023-09-10,"BDG","hearing","human","RC10","9:00",1,1,1,66,"BCCH",2,"a","u","","yes"
+2023-09-10,"BDG","hearing","human","RC10","9:00",1,1,1,66,"AMRO",1,"a","u","","yes"
+2023-09-10,"BDG","hearing","human","RC10","9:00",1,1,1,66,"RBNU",1,"a","o","","yes"
+2023-09-10,"ZHK","merlin","iPhone 14","RC10","9:00",1,1,1,66,"AMRO",1,"a",NA,"","yes"
+2023-09-10,"ZHK","merlin","iPhone 14","RC10","9:00",1,1,1,66,"BCCH",1,"a",NA,"","yes"
+2023-09-10,"ZHK","merlin","iPhone 14","RC10","9:00",1,1,1,66,"GCKI",1,"a",NA,"","yes"
+2023-09-10,"ZHK","merlin","iPhone 14","RC10","9:00",1,1,1,66,"RBNU",1,"a",NA,"","yes"
+2023-09-10,"KL","playback",NA,"RC10","9:00",1,1,1,66,"BCCH",NA,"a",NA,"",NA
+2023-09-10,"KL","playback",NA,"RC10","9:00",1,1,1,66,"AMRO",NA,"a",NA,"",NA
+2023-09-10,"KL","playback",NA,"RC10","9:00",1,1,1,66,"GCKI",NA,"a",NA,"",NA
+2023-09-10,"KL","playback",NA,"RC10","9:00",1,1,1,66,"RBNU",NA,"a",NA,"",NA
+2023-09-10,"BDG","hearing","human","RC2","7:40",1,1,1,65,"BCCH",1,"a","u","","yes"
+2023-09-10,"BDG","hearing","human","RC2","7:40",1,1,1,65,"WTSP",1,"a","u","","yes"
+2023-09-10,"ZHK","merlin","iPhone 14","RC2","7:40",1,1,1,65,"WTSP",1,"a",NA,"","yes"
+2023-09-10,"ZHK","merlin","iPhone 14","RC2","7:40",1,1,1,65,"BCCH",1,"a",NA,"","yes"
+2023-09-10,"ZHK","merlin","iPhone 14","RC2","7:40",1,1,1,65,"SWSP",1,"a",NA,"","no"
+2023-09-10,"KL","playback",NA,"RC2","7:40",1,1,1,65,"BCCH",NA,"a",NA,"",NA
+2023-09-10,"KL","playback",NA,"RC2","7:40",1,1,1,65,"WTSP",NA,"a",NA,"",NA
+2023-09-10,"KL","playback",NA,"RC2","7:40",1,1,1,65,"AMCR",NA,"a",NA,"",NA
+2023-09-10,"BDG","hearing","human","RC3","7:50",1,1,1,65,"BCCH",3,"a","u","","yes"
+2023-09-10,"BDG","hearing","human","RC3","7:50",1,1,1,65,"UNK",1,"a","u","",NA
+2023-09-10,"BDG","hearing","human","RC3","7:50",1,1,1,65,"AMCR",1,"a","o","","unverifiable"
+2023-09-10,"BDG","hearing","human","RC3","7:50",1,1,1,65,"RBNU",1,"a","u","","yes"
+2023-09-10,"ZHK","merlin","iPhone 14","RC3","7:50",1,1,1,65,"RBNU",1,"a",NA,"","yes"
+2023-09-10,"KL","playback",NA,"RC3","7:50",1,1,1,65,"BCCH",NA,"a",NA,"",NA
+2023-09-10,"KL","playback",NA,"RC3","7:50",1,1,1,65,"RBNU",NA,"a",NA,"",NA
+2023-09-10,"BDG","hearing","human","RC4","8:00",1,1,1,65,"BCCH",3,"a","u","","yes"
+2023-09-10,"BDG","hearing","human","RC4","8:00",1,1,1,65,"AMCR",1,"a","o","","unverifiable"
+2023-09-10,"BDG","hearing","human","RC4","8:00",1,1,1,65,"AGOL",2,"a","u","","yes"
+2023-09-10,"BDG","hearing","human","RC4","8:00",1,1,1,65,"RBNU",1,"a","o","","unverifiable"
+2023-09-10,"ZHK","merlin","iPhone 14","RC4","8:00",1,1,1,65,"BCCH",1,"a",NA,"","yes"
+2023-09-15,"KPM","merlin","iPhone 13","RC1","6:57",0,0,1,54,"HAWO",1,"a",NA,"audio files","yes"
+2023-09-15,"AB","merlin","iPhone 13 Mini","RC1","6:57",0,0,1,54,"HAWO",1,"a",NA,"audio files","yes"
+2023-09-15,"BDG","hearing","human","RC1","6:57",0,0,1,54,"RBNU",1,"a","o","","unverifiable"
+2023-09-15,"BDG","hearing","human","RC1","6:57",0,0,1,54,"HAWO",1,"a","u","","yes"
+2023-09-15,"BDG","hearing","human","RC1","6:57",0,0,1,54,"BADO",1,"v","u","","unverifiable"
+2023-09-15,"KL","playback",NA,"RC1","6:57",0,0,1,54,"HAWO",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC1","6:57",0,0,1,54,"warbler sp.",NA,"a",NA,"",NA
+2023-09-15,"BDG","hearing","human","RC10","8:30",0,0,1,56,"BCCH",2,"a","u","","no"
+2023-09-15,"KPM","merlin","iPhone 13","RC10","8:30",0,0,1,56,"none",NA,NA,NA,"",NA
+2023-09-15,"AB","merlin","iPhone 13 Mini","RC10","8:30",0,0,1,56,"none",NA,NA,NA,"",NA
+2023-09-15,"KL","playback",NA,"RC10","8:30",0,0,1,56,"warbler sp.",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC10","8:30",0,0,1,56,"YRWA",NA,"a",NA,"",NA
+2023-09-15,"KPM","merlin","iPhone 13","RC2","7:08",0,0,1,54,"GCKI",1,"a",NA,"","yes"
+2023-09-15,"KPM","merlin","iPhone 13","RC2","7:08",0,0,1,54,"COYE",1,"a",NA,"","yes"
+2023-09-15,"KPM","merlin","iPhone 13","RC2","7:08",0,0,1,54,"BLPW",1,"a",NA,"","no"
+2023-09-15,"KPM","merlin","iPhone 13","RC2","7:08",0,0,1,54,"BCCH",1,"a",NA,"","yes"
+2023-09-15,"KPM","merlin","iPhone 13","RC2","7:08",0,0,1,54,"INBU",1,"a",NA,"","no"
+2023-09-15,"KPM","merlin","iPhone 13","RC2","7:08",0,0,1,54,"RBNU",1,"a",NA,"","yes"
+2023-09-15,"KPM","merlin","iPhone 13","RC2","7:08",0,0,1,54,"WTSP",1,"a",NA,"","no"
+2023-09-15,"AB","merlin","iPhone 13 Mini","RC2","7:08",0,0,1,54,"GCKI",1,"a",NA,"","yes"
+2023-09-15,"AB","merlin","iPhone 13 Mini","RC2","7:08",0,0,1,54,"COYE",1,"a",NA,"","yes"
+2023-09-15,"AB","merlin","iPhone 13 Mini","RC2","7:08",0,0,1,54,"RBNU",1,"a",NA,"","yes"
+2023-09-15,"AB","merlin","iPhone 13 Mini","RC2","7:08",0,0,1,54,"BLPW",1,"a",NA,"","no"
+2023-09-15,"AB","merlin","iPhone 13 Mini","RC2","7:08",0,0,1,54,"BCCH",1,"a",NA,"","yes"
+2023-09-15,"AB","merlin","iPhone 13 Mini","RC2","7:08",0,0,1,54,"YRWA",1,"a",NA,"","yes"
+2023-09-15,"BDG","hearing","human","RC2","7:08",0,0,1,54,"GCKI",1,"a","u","","yes"
+2023-09-15,"BDG","hearing","human","RC2","7:08",0,0,1,54,"COYE",1,"a","u","","yes"
+2023-09-15,"BDG","hearing","human","RC2","7:08",0,0,1,54,"RBNU",1,"a","u","","yes"
+2023-09-15,"BDG","hearing","human","RC2","7:08",0,0,1,54,"BCCH",2,"a","u","","yes"
+2023-09-15,"KL","playback",NA,"RC2","7:08",0,0,1,54,"GCKI",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC2","7:08",0,0,1,54,"COYE",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC2","7:08",0,0,1,54,"RBNU",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC2","7:08",0,0,1,54,"YRWA",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC2","7:08",0,0,1,54,"warbler sp.",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC2","7:08",0,0,1,54,"BCCH",NA,"a",NA,"",NA
+2023-09-15,"KPM","merlin","iPhone 13","RC3","7:18",0,0,1,54,"AGOL",1,"a",NA,"","yes"
+2023-09-15,"KPM","merlin","iPhone 13","RC3","7:18",0,0,1,54,"BLJA",1,"a",NA,"","no"
+2023-09-15,"AB","merlin","iPhone 13 Mini","RC3","7:18",0,0,1,54,"AGOL",1,"a",NA,"used to be AMGO","yes"
+2023-09-15,"AB","merlin","iPhone 13 Mini","RC3","7:18",0,0,1,54,"AMPI",1,"a",NA,"","yes"
+2023-09-15,"AB","merlin","iPhone 13 Mini","RC3","7:18",0,0,1,54,"GRCA",1,"a",NA,"","yes"
+2023-09-15,"AB","merlin","iPhone 13 Mini","RC3","7:18",0,0,1,54,"BAWW",1,"a",NA,"","no"
+2023-09-15,"BDG","hearing","human","RC3","7:18",0,0,1,54,"UNK",1,"a","u","",NA
+2023-09-15,"BDG","hearing","human","RC3","7:18",0,0,1,54,"AGOL",1,"a","u","","yes"
+2023-09-15,"BDG","hearing","human","RC3","7:18",0,0,1,54,"GRCA",1,"a","u","","yes"
+2023-09-15,"BDG","hearing","human","RC3","7:18",0,0,1,54,"GCKI",1,"a","o","","unverifiable"
+2023-09-15,"BDG","hearing","human","RC3","7:18",0,0,1,54,"AMCR",2,"a","o","","unverifiable"
+2023-09-15,"KL","playback",NA,"RC3","7:18",0,0,1,54,"AGOL",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC3","7:18",0,0,1,54,"PISI",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC3","7:18",0,0,1,54,"AMPI",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC3","7:18",0,0,1,54,"GRCA",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC3","7:18",0,0,1,54,"warbler sp.",NA,"a",NA,"",NA
+2023-09-15,"KPM","merlin","iPhone 13","RC4","7:29",0,0,1,54,"PIWO",1,"a",NA,"","yes"
+2023-09-15,"BDG","hearing","human","RC4","7:29",0,0,1,54,"BCCH",1,"a","u","","unverifiable"
+2023-09-15,"BDG","hearing","human","RC4","7:29",0,0,1,54,"NOFL",1,"a","u","","no"
+2023-09-15,"KL","playback",NA,"RC4","7:29",0,0,1,54,"bird sp.",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC4","7:29",0,0,1,54,"PIWO",NA,"a",NA,"",NA
+2023-09-15,"KPM","merlin","iPhone 13","RC5","7:39",0,0,1,56,"EAPH",1,"a",NA,"","yes"
+2023-09-15,"KPM","merlin","iPhone 13","RC5","7:39",0,0,1,56,"YEWA",1,"a",NA,"","no"
+2023-09-15,"KPM","merlin","iPhone 13","RC5","7:39",0,0,1,56,"AGOL",1,"a",NA,"","yes"
+2023-09-15,"KPM","merlin","iPhone 13","RC5","7:39",0,0,1,56,"SWTH",1,"a",NA,"","yes"
+2023-09-15,"KPM","merlin","iPhone 13","RC5","7:39",0,0,1,56,"DOWO",1,"a",NA,"","yes"
+2023-09-15,"AB","merlin","iPhone 13 Mini","RC5","7:39",0,0,1,56,"YEWA",1,"a",NA,"","no"
+2023-09-15,"AB","merlin","iPhone 13 Mini","RC5","7:39",0,0,1,56,"AGOL",1,"a",NA,"","yes"
+2023-09-15,"AB","merlin","iPhone 13 Mini","RC5","7:39",0,0,1,56,"DOWO",1,"a",NA,"","yes"
+2023-09-15,"BDG","hearing","human","RC5","7:39",0,0,1,56,"RBNU",1,"a","u","","unverifiable"
+2023-09-18,"BDG","hearing","human","RC1","7:08",1,0,1,56,"AMCR",1,"a","o","","unverifiable"
+2023-09-18,"BDG","hearing","human","RC1","7:08",1,0,1,56,"BLJA",1,"a","o","","yes"
+2023-09-18,"AB","merlin","iPhone 13 Mini","RC1","7:08",1,0,1,56,"none",NA,NA,NA,"",NA
+2023-09-18,"KL","playback",NA,"RC1","7:08",1,0,1,56,"BLJA",NA,"a",NA,"",NA
+2023-09-18,"AB","merlin","iPhone 13 Mini","RC2","7:17",1,0,1,56,"YRWA",1,"a",NA,"audio files","yes"
+2023-09-18,"BDG","hearing","human","RC2","7:17",1,0,1,56,"GCKI",1,"a","u","","unverifiable"
+2023-09-18,"BDG","hearing","human","RC2","7:17",1,0,1,56,"AMCR",2,"a","o","","yes"
+2023-09-18,"BDG","hearing","human","RC2","7:17",1,0,1,56,"UNK",1,"a","u","",NA
+2023-09-18,"BDG","hearing","human","RC2","7:17",1,0,1,56,"AGOL",1,"a","o","","unverifiable"
+2023-09-18,"KL","playback",NA,"RC2","7:17",1,0,1,56,"YRWA",NA,"a",NA,"",NA
+2023-09-18,"KL","playback",NA,"RC2","7:17",1,0,1,56,"AMCR",NA,"a",NA,"",NA
+2023-09-18,"BDG","hearing","human","RC3","7:27",1,0,1,56,"AMCR",2,"a","o","","unverifiable"
+2023-09-18,"BDG","hearing","human","RC3","7:27",1,0,1,56,"GCKI",1,"a","u","","unverifiable"
+2023-09-18,"AB","merlin","iPhone 13 Mini","RC3","7:27",1,0,1,56,"none",NA,NA,NA,"",NA
+2023-09-18,"KL","playback",NA,"RC3","7:27",1,0,1,56,"bird sp.",NA,"a",NA,"",NA
+2023-09-26,"BDG","hearing","human","RC1","7:07",0,0,1,46,"GCKI",3,"a","u","","yes"
+2023-09-26,"BDG","hearing","human","RC1","7:07",0,0,1,46,"AMRO",1,"a","o","","yes"
+2023-09-26,"BDG","hearing","human","RC1","7:07",0,0,1,46,"AMCR",1,"a","o","","yes"
+2023-09-26,"BDG","hearing","human","RC1","7:07",0,0,1,46,"UNK",1,"a","o","",NA
+2023-09-26,"KPM","merlin","iPhone 13","RC1","7:07",0,0,1,46,"GCKI",1,"a",NA,"audio files","yes"
+2023-09-26,"KPM","merlin","iPhone 13","RC1","7:07",0,0,1,46,"CORA",1,"a",NA,"","no"
+2023-09-26,"KPM","merlin","iPhone 13","RC1","7:07",0,0,1,46,"AMCR",1,"a",NA,"","yes"
+2023-09-26,"BDG","hearing","human","RC10","8:46",0,0,1,48,"GCKI",1,"a","u","","yes"
+2023-09-26,"KPM","merlin","iPhone 13","RC10","8:46",0,0,1,48,"GCKI",1,"a",NA,"","yes"
+2023-09-26,"BDG","hearing","human","RC2","7:16",0,0,1,46,"GCKI",2,"a","u","","yes"
+2023-09-26,"BDG","hearing","human","RC2","7:16",0,0,1,46,"BTNW",1,"a","u","","yes"
+2023-09-26,"BDG","hearing","human","RC2","7:16",0,0,1,46,"BLJA",1,"a","o","","yes"
+2023-09-26,"BDG","hearing","human","RC2","7:16",0,0,1,46,"UNK",1,"a","u","",NA
+2023-09-26,"KPM","merlin","iPhone 13","RC2","7:16",0,0,1,46,"GCKI",1,"a",NA,"","yes"
+2023-09-26,"KPM","merlin","iPhone 13","RC2","7:16",0,0,1,46,"BTNW",1,"a",NA,"","yes"
+2023-09-26,"KPM","merlin","iPhone 13","RC2","7:16",0,0,1,46,"WTSP",1,"a",NA,"","no"
+2023-09-26,"BDG","hearing","human","RC3","7:28",0,0,1,46,"RBNU",1,"a","o","","unverifiable"
+2023-09-26,"BDG","hearing","human","RC3","7:28",0,0,1,46,"AMCR",1,"a","o","","unverifiable"
+2023-09-26,"BDG","hearing","human","RC4","7:38",0,0,1,46,"GCKI",1,"a","u","","no"
+2023-09-26,"BDG","hearing","human","RC4","7:38",0,0,1,46,"RBNU",1,"a","o","","yes"
+2023-09-26,"BDG","hearing","human","RC5","7:48",0,0,1,48,"GCKI",1,"a","u","","yes"
+2023-09-26,"BDG","hearing","human","RC5","7:48",0,0,1,48,"BLJA",1,"a","o","","yes"
+2023-09-26,"KPM","merlin","iPhone 13","RC5","7:48",0,0,1,48,"GCKI",1,"a",NA,"","yes"
+2023-09-26,"KPM","merlin","iPhone 13","RC5","7:48",0,0,1,48,"BLJA",1,"a",NA,"","yes"
+2023-09-26,"BDG","hearing","human","RC6","7:58",0,0,1,48,"GCKI",1,"a","u","","no"
+2023-09-26,"BDG","hearing","human","RC6","7:58",0,0,1,48,"BTNW",1,"a","u","","unverifiable"
+2023-09-26,"KPM","merlin","iPhone 13","RC6","7:58",0,0,1,48,"YRWA",1,"a",NA,"","yes"
+2023-09-26,"BDG","hearing","human","RC7","8:11",0,0,1,48,"AGOL",1,"a","o","","unverifiable"
+2023-09-26,"BDG","hearing","human","RC7","8:11",0,0,1,48,"UNK",1,"a","u","",NA
+2023-09-26,"BDG","hearing","human","RC9","8:34",0,0,1,48,"GCKI",1,"a","u","","yes"
+2023-10-11,"BDG","hearing","human","RC10","12:57",1,1,0,56,"GCKI",4,"a","u","","yes"
+2023-10-11,"BDG","hearing","human","RC9","13:07",1,1,0,56,"UNK",1,"a","u","",NA
+2023-10-11,"BDG","hearing","human","RC8","13:17",1,1,0,56,"GCKI",1,"a","o","","unverifiable"
+2023-10-11,"BDG","hearing","human","RC8","13:17",1,1,0,56,"BCCH",1,"a","u","","yes"
+2023-10-11,"BDG","hearing","human","RC7","13:28",1,1,0,56,"BCCH",1,"a","o","","yes"
+2023-10-11,"BDG","hearing","human","RC6","13:38",1,1,0,56,"BCCH",2,"a","o","","unverifiable"
+2023-10-11,"BDG","hearing","human","RC5","13:47",1,1,0,57,"BLJA",1,"a","o","","unverifiable"
+2023-10-11,"BDG","hearing","human","RC4","14:11",1,1,0,57,"GCKI",3,"a","u","","yes"
+2023-10-11,"BDG","hearing","human","RC4","14:11",1,1,0,57,"BLJA",1,"a","o","","unverifiable"
+2023-10-11,"BDG","hearing","human","RC4","14:11",1,1,0,57,"BCCH",3,"a","u","","yes"
+2023-10-11,"BDG","hearing","human","RC1","14:41",1,1,0,57,"AMCR",1,"a","o","","unverifiable"
+2023-10-11,"EJD","merlin","iPhone 12 Pro","RC10","12:57",1,1,0,56,"GCKI",1,"a",NA,"audio files","yes"
+2023-10-11,"EJD","merlin","iPhone 12 Pro","RC10","12:57",1,1,0,56,"BRCR",1,"a",NA,"","no"
+2023-10-11,"EJD","merlin","iPhone 12 Pro","RC8","13:17",1,1,0,56,"BCCH",1,"a",NA,"","yes"
+2023-10-11,"EJD","merlin","iPhone 12 Pro","RC8","13:17",1,1,0,56,"NOCA",1,"a",NA,"","no"
+2023-10-11,"EJD","merlin","iPhone 12 Pro","RC4","14:11",1,1,0,57,"GCKI",1,"a",NA,"","yes"
+2023-10-11,"EJD","merlin","iPhone 12 Pro","RC4","14:11",1,1,0,57,"BCCH",1,"a",NA,"","yes"
+2023-10-11,"EJD","merlin","iPhone 12 Pro","RC2","14:31",1,1,0,57,"SWTH",1,"a",NA,"spring peeper","no"
+2023-10-16,"BDG","hearing","human","RC1","7:15",2,0,2,50,"GCKI",3,"a","u","","yes"
+2023-10-16,"BDG","hearing","human","RC1","7:15",2,0,2,50,"AMCR",1,"a","o","","unverifiable"
+2023-10-16,"BDG","hearing","human","RC1","7:15",2,0,2,50,"YRWA",1,"a","o","","yes"
+2023-10-16,"BDG","hearing","human","RC1","7:15",2,0,2,50,"PISI",2,"a","o","","yes"
+2023-10-16,"BDG","hearing","human","RC1","7:15",2,0,2,50,"DEJU",1,"a","u","","no"
+2023-10-16,"BDG","hearing","human","RC2","7:26",2,0,2,50,"CORA",1,"a","u","","yes"
+2023-10-16,"BDG","hearing","human","RC2","7:26",2,0,2,50,"YRWA",2,"a","u","","yes"
+2023-10-16,"BDG","hearing","human","RC2","7:26",2,0,2,50,"GCKI",2,"a","u","","unverifiable"
+2023-10-16,"BDG","hearing","human","RC2","7:26",2,0,2,50,"BLJA",2,"a","o","","unverifiable"
+2023-10-16,"BDG","hearing","human","RC2","7:26",2,0,2,50,"PISI",1,"a","o","","yes"
+2023-10-16,"BDG","hearing","human","RC2","7:26",2,0,2,50,"AMRO",1,"a","o","","yes"
+2023-10-16,"BDG","hearing","human","RC3","7:36",2,0,2,50,"GCKI",2,"a","u","","yes"
+2023-10-16,"BDG","hearing","human","RC3","7:36",2,0,2,50,"BLJA",1,"a","o","","unverifiable"
+2023-10-16,"BDG","hearing","human","RC3","7:36",2,0,2,50,"YRWA",1,"a","o","","yes"
+2023-10-16,"BDG","hearing","human","RC3","7:36",2,0,2,50,"PISI",3,"a","u","","yes"
+2023-10-16,"BDG","hearing","human","RC3","7:36",2,0,2,50,"DEJU",2,"v","o","","unverifiable"
+2023-10-16,"BDG","hearing","human","RC4","7:53",2,0,2,50,"DEJU",7,"a","u","","yes"
+2023-10-16,"BDG","hearing","human","RC4","7:53",2,0,2,50,"YRWA",1,"a","u","","yes"
+2023-10-16,"BDG","hearing","human","RC4","7:53",2,0,2,50,"BCCH",1,"a","u","","yes"
+2023-10-16,"BDG","hearing","human","RC4","7:53",2,0,2,50,"BTNW",1,"a","u","","unverifiable"
+2023-10-16,"BDG","hearing","human","RC5","8:03",2,0,2,50,"YRWA",2,"a","u","","yes"
+2023-10-16,"BDG","hearing","human","RC5","8:03",2,0,2,50,"GCKI",4,"a","u","","yes"
+2023-10-16,"BDG","hearing","human","RC5","8:03",2,0,2,50,"AMRO",1,"a","o","","unverifiable"
+2023-10-16,"BDG","hearing","human","RC5","8:03",2,0,2,50,"NOFL",1,"a","o","","no"
+2023-10-16,"BDG","hearing","human","RC5","8:03",2,0,2,50,"DEJU",9,"a","u","","no"
+2023-10-16,"BDG","hearing","human","RC5","8:03",2,0,2,50,"COHA",1,"v","o","","unverifiable"
+2023-10-16,"BDG","hearing","human","RC6","8:16",2,0,2,50,"YRWA",1,"a","u","","yes"
+2023-10-16,"BDG","hearing","human","RC6","8:16",2,0,2,50,"DEJU",1,"a","o","","unverifiable"
+2023-10-16,"BDG","hearing","human","RC7","8:26",2,0,2,50,"GCKI",1,"a","o","","unverifiable"
+2023-10-16,"BDG","hearing","human","RC7","8:26",2,0,2,50,"YRWA",1,"a","o","","unverifiable"
+2023-10-16,"BDG","hearing","human","RC7","8:26",2,0,2,50,"AGOL",2,"a","o","","unverifiable"
+2023-10-16,"BDG","hearing","human","RC8","8:36",2,0,2,50,"BCCH",1,"a","u","","yes"
+2023-10-16,"BDG","hearing","human","RC8","8:36",2,0,2,50,"PIWO",1,"a","o","","yes"
+2023-10-16,"BDG","hearing","human","RC8","8:36",2,0,2,50,"GCKI",1,"a","o","","unverifiable"
+2023-10-16,"BDG","hearing","human","RC8","8:36",2,0,2,50,"AMCR",1,"a","o","","yes"
+2023-10-16,"BDG","hearing","human","RC8","8:36",2,0,2,50,"DEJU",4,"a","u","","yes"
+2023-10-16,"BDG","hearing","human","RC9","8:46",2,0,2,50,"DEJU",5,"a","u","","yes"
+2023-10-16,"BDG","hearing","human","RC9","8:46",2,0,2,50,"YRWA",1,"a","u","","yes"
+2023-10-16,"BDG","hearing","human","RC9","8:46",2,0,2,50,"UNK",1,"a","u","",NA
+2023-10-16,"BDG","hearing","human","RC10","8:56",2,0,2,50,"UNK",1,"a","o","",NA
+2023-10-16,"BDG","hearing","human","RC10","8:56",2,0,2,50,"DEJU",2,"a","u","","unverifiable"
+2023-10-16,"JAA","merlin","iPhone 14","RC1","7:15",2,0,2,50,"GCKI",1,"a",NA,"audio files","yes"
+2023-10-16,"JAA","merlin","iPhone 14","RC1","7:15",2,0,2,50,"YRWA",1,"a",NA,"","yes"
+2023-10-16,"JAA","merlin","iPhone 14","RC1","7:15",2,0,2,50,"PISI",1,"a",NA,"","yes"
+2023-10-16,"JAA","merlin","iPhone 14","RC2","7:26",2,0,2,50,"CORA",1,"a",NA,"","yes"
+2023-10-16,"JAA","merlin","iPhone 14","RC2","7:26",2,0,2,50,"AMRO",1,"a",NA,"","yes"
+2023-10-16,"JAA","merlin","iPhone 14","RC2","7:26",2,0,2,50,"YRWA",1,"a",NA,"","yes"
+2023-10-16,"JAA","merlin","iPhone 14","RC3","7:36",2,0,2,50,"YRWA",1,"a",NA,"","yes"
+2023-10-16,"JAA","merlin","iPhone 14","RC3","7:36",2,0,2,50,"GCKI",1,"a",NA,"","yes"
+2023-10-16,"JAA","merlin","iPhone 14","RC4","7:53",2,0,2,50,"DEJU",1,"a",NA,"","yes"
+2023-10-16,"JAA","merlin","iPhone 14","RC4","7:53",2,0,2,50,"WTSP",1,"a",NA,"","yes"
+2023-10-16,"JAA","merlin","iPhone 14","RC4","7:53",2,0,2,50,"BCCH",1,"a",NA,"","yes"
+2023-10-16,"JAA","merlin","iPhone 14","RC4","7:53",2,0,2,50,"PAWA",1,"a",NA,"","yes"
+2023-10-16,"JAA","merlin","iPhone 14","RC5","8:03",2,0,2,50,"GCKI",1,"a",NA,"","yes"
+2023-10-16,"JAA","merlin","iPhone 14","RC5","8:03",2,0,2,50,"SWSP",1,"a",NA,"","no"
+2023-10-16,"JAA","merlin","iPhone 14","RC5","8:03",2,0,2,50,"WTSP",1,"a",NA,"","yes"
+2023-10-16,"JAA","merlin","iPhone 14","RC5","8:03",2,0,2,50,"HAWO",1,"a",NA,"","yes"
+2023-10-16,"JAA","merlin","iPhone 14","RC5","8:03",2,0,2,50,"SOSP",1,"a",NA,"","yes"
+2023-10-16,"JAA","merlin","iPhone 14","RC5","8:03",2,0,2,50,"CHSP",1,"a",NA,"","yes"
+2023-10-16,"JAA","merlin","iPhone 14","RC5","8:03",2,0,2,50,"YRWA",1,"a",NA,"","yes"
+2023-10-16,"JAA","merlin","iPhone 14","RC8","8:36",2,0,2,50,"DEJU",1,"a",NA,"","yes"
+2023-10-16,"JAA","merlin","iPhone 14","RC9","8:46",2,0,2,50,"YRWA",1,"a",NA,"","yes"
+2023-10-16,"JAA","merlin","iPhone 14","RC9","8:46",2,0,2,50,"DEJU",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC6","9:35",1,0,1,70,"RTHA",1,"a",NA,"","no"
+2023-07-07,"KL","playback",NA,"RC6","9:35",1,0,1,70,"OVEN",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC6","9:35",1,0,1,70,"MAWA",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC6","9:35",1,0,1,70,"NAWA",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC6","9:35",1,0,1,70,"HETH",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC6","9:35",1,0,1,70,"OSPR",NA,"a",NA,"",NA
+2023-07-07,"BDG","hearing","human","RC7","9:47",1,0,1,70,"MODO",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC7","9:47",1,0,1,70,"OVEN",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC7","9:47",1,0,1,70,"HETH",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC7","9:47",1,0,1,70,"MODO",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC7","9:47",1,0,1,70,"NAWA",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC7","9:47",1,0,1,70,"HETH",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC7","9:47",1,0,1,70,"OVEN",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC7","9:47",1,0,1,70,"HETH",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC7","9:47",1,0,1,70,"MODO",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC7","9:47",1,0,1,70,"OVEN",1,"a",NA,"","yes"
+2023-07-07,"KL","playback",NA,"RC7","9:47",1,0,1,70,"MODO",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC7","9:47",1,0,1,70,"NAWA",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC7","9:47",1,0,1,70,"HETH",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC7","9:47",1,0,1,70,"OVEN",NA,"a",NA,"",NA
+2023-07-07,"BDG","hearing","human","RC8","9:57",1,0,1,70,"OVEN",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC8","9:57",1,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC8","9:57",1,0,1,70,"HETH",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC8","9:57",1,0,1,70,"HETH",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC8","9:57",1,0,1,70,"OVEN",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC8","9:57",1,0,1,70,"OVEN",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC8","9:57",1,0,1,70,"HETH",1,"a",NA,"","yes"
+2023-07-07,"KL","playback",NA,"RC8","9:57",1,0,1,70,"HETH",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC8","9:57",1,0,1,70,"OVEN",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC8","9:57",1,0,1,70,"BTNW",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC8","9:57",1,0,1,70,"GCKI",NA,"a",NA,"",NA
+2023-07-07,"BDG","hearing","human","RC9","10:08",1,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC9","10:08",1,0,1,70,"HETH",1,"a",NA,"","yes"
+2023-07-07,"BDG","hearing","human","RC9","10:08",1,0,1,70,"REVI",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC9","10:08",1,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-07,"EDH","merlin","iPhone SE","RC9","10:08",1,0,1,70,"BBPL",1,"a",NA,"","no"
+2023-07-07,"EDH","merlin","iPhone SE","RC9","10:08",1,0,1,70,"HETH",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC9","10:08",1,0,1,70,"BTNW",1,"a",NA,"","yes"
+2023-07-07,"EJD","merlin","Samsung Galaxy Tab A7 Lite","RC9","10:08",1,0,1,70,"HETH",1,"a",NA,"","yes"
+2023-07-07,"KL","playback",NA,"RC9","10:08",1,0,1,70,"BTNW",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC9","10:08",1,0,1,70,"HETH",NA,"a",NA,"",NA
+2023-07-07,"KL","playback",NA,"RC9","10:08",1,0,1,70,"REVI",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC6","11:30",0,0,1,74,"MODO",NA,"a",NA,"",NA
+2023-07-20,"BDG","hearing","human","RC7","11:44",0,0,1,74,"HETH",2,"a","o","","yes"
+2023-07-20,"ZHK","merlin","iPhone 14","RC7","11:44",0,0,1,74,"none",NA,NA,NA,"",NA
+2023-07-20,"EDH","merlin","iPhone SE","RC7","11:44",0,0,1,74,"none",NA,NA,NA,"",NA
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC7","11:44",0,0,1,74,"none",NA,NA,NA,"",NA
+2023-07-20,"KL","playback",NA,"RC7","11:44",0,0,1,74,"HETH",NA,"a",NA,"",NA
+2023-07-20,"BDG","hearing","human","RC8","11:52",0,0,1,74,"HETH",1,"a","o","","yes"
+2023-07-20,"BDG","hearing","human","RC8","11:52",0,0,1,74,"BTNW",2,"a","u","","yes"
+2023-07-20,"ZHK","merlin","iPhone 14","RC8","11:52",0,0,1,74,"HETH",1,"a",NA,"","yes"
+2023-07-20,"ZHK","merlin","iPhone 14","RC8","11:52",0,0,1,74,"BTNW",1,"a",NA,"","yes"
+2023-07-20,"EDH","merlin","iPhone SE","RC8","11:52",0,0,1,74,"HETH",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC8","11:52",0,0,1,74,"HETH",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC8","11:52",0,0,1,74,"BTNW",1,"a",NA,"","yes"
+2023-07-20,"KL","playback",NA,"RC8","11:52",0,0,1,74,"HETH",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC8","11:52",0,0,1,74,"BTNW",NA,"a",NA,"",NA
+2023-07-20,"BDG","hearing","human","RC9","12:02",0,0,1,74,"REVI",1,"a","u","","yes"
+2023-07-20,"BDG","hearing","human","RC9","12:02",0,0,1,74,"MODO",1,"a","o","","yes"
+2023-07-20,"BDG","hearing","human","RC9","12:02",0,0,1,74,"HETH",1,"a","u","","yes"
+2023-07-20,"BDG","hearing","human","RC9","12:02",0,0,1,74,"BTNW",1,"a","u","","yes"
+2023-07-20,"ZHK","merlin","iPhone 14","RC9","12:02",0,0,1,74,"REVI",1,"a",NA,"","yes"
+2023-07-20,"ZHK","merlin","iPhone 14","RC9","12:02",0,0,1,74,"DEJU",1,"a",NA,"","yes"
+2023-07-20,"ZHK","merlin","iPhone 14","RC9","12:02",0,0,1,74,"HETH",1,"a",NA,"","yes"
+2023-07-20,"ZHK","merlin","iPhone 14","RC9","12:02",0,0,1,74,"BTNW",1,"a",NA,"","yes"
+2023-07-20,"EDH","merlin","iPhone SE","RC9","12:02",0,0,1,74,"REVI",1,"a",NA,"","yes"
+2023-07-20,"EDH","merlin","iPhone SE","RC9","12:02",0,0,1,74,"HETH",1,"a",NA,"","yes"
+2023-07-20,"EDH","merlin","iPhone SE","RC9","12:02",0,0,1,74,"BHVI",1,"a",NA,"","no"
+2023-07-20,"EDH","merlin","iPhone SE","RC9","12:02",0,0,1,74,"BTNW",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC9","12:02",0,0,1,74,"REVI",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC9","12:02",0,0,1,74,"DEJU",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC9","12:02",0,0,1,74,"HETH",1,"a",NA,"","yes"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC9","12:02",0,0,1,74,"BHVI",1,"a",NA,"","no"
+2023-07-20,"EJD","merlin","iPhone 12 Pro","RC9","12:02",0,0,1,74,"BTNW",1,"a",NA,"","yes"
+2023-07-20,"KL","playback",NA,"RC9","12:02",0,0,1,74,"REVI",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC9","12:02",0,0,1,74,"YRWA",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC9","12:02",0,0,1,74,"DEJU",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC9","12:02",0,0,1,74,"HETH",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC9","12:02",0,0,1,74,"BTNW",NA,"a",NA,"",NA
+2023-07-20,"KL","playback",NA,"RC9","12:02",0,0,1,74,"MODO",NA,"a",NA,"",NA
+2023-07-26,"EDH","merlin","iPhone SE","RC5","10:47",0,0,1,74,"CEDW",1,"a",NA,"","yes"
+2023-07-26,"KL","playback",NA,"RC5","10:47",0,0,1,74,"HETH",NA,"a",NA,"",NA
+2023-07-26,"KL","playback",NA,"RC5","10:47",0,0,1,74,"BHVI",NA,"a",NA,"",NA
+2023-07-26,"KL","playback",NA,"RC5","10:47",0,0,1,74,"CEDW",NA,"a",NA,"",NA
+2023-07-26,"KL","playback",NA,"RC5","10:47",0,0,1,74,"NOFL",NA,"a",NA,"",NA
+2023-07-26,"KL","playback",NA,"RC5","10:47",0,0,1,74,"BAWW",NA,"a",NA,"",NA
+2023-07-26,"BDG","hearing","human","RC6","11:05",0,0,1,74,"HETH",3,"a","u","","yes"
+2023-07-26,"BDG","hearing","human","RC6","11:05",0,0,1,74,"MODO",1,"a","o","","yes"
+2023-07-26,"BDG","hearing","human","RC6","11:05",0,0,1,74,"UNK",3,"a","o","",NA
+2023-07-26,"BDG","hearing","human","RC6","11:05",0,0,1,74,"UNK",1,"a","u","",NA
+2023-07-26,"EDH","merlin","iPhone SE","RC6","11:05",0,0,1,74,"HETH",1,"a",NA,"","yes"
+2023-07-26,"EDH","merlin","iPhone SE","RC6","11:05",0,0,1,74,"CEDW",1,"a",NA,"","yes"
+2023-07-26,"KL","playback",NA,"RC6","11:05",0,0,1,74,"HETH",NA,"a",NA,"",NA
+2023-07-26,"KL","playback",NA,"RC6","11:05",0,0,1,74,"CEDW",NA,"a",NA,"",NA
+2023-07-26,"KL","playback",NA,"RC6","11:05",0,0,1,74,"WWCR",NA,"a",NA,"",NA
+2023-07-26,"KL","playback",NA,"RC6","11:05",0,0,1,74,"MODO",NA,"a",NA,"",NA
+2023-07-26,"BDG","hearing","human","RC7","11:19",0,0,1,74,"WTSP",1,"a","o","","unverifiable"
+2023-07-26,"BDG","hearing","human","RC7","11:19",0,0,1,74,"UNK",1,"a","u","",NA
+2023-07-26,"BDG","hearing","human","RC7","11:19",0,0,1,74,"HETH",1,"a","o","","unverifiable"
+2023-07-26,"EDH","merlin","iPhone SE","RC7","11:19",0,0,1,74,"none",NA,NA,NA,"",NA
+2023-07-26,"KL","playback",NA,"RC7","11:19",0,0,1,74,"warbler sp.",NA,"a",NA,"",NA
+2023-07-26,"BDG","hearing","human","RC8","11:30",0,0,1,74,"BCCH",1,"a","o","","unverifiable"
+2023-07-26,"BDG","hearing","human","RC8","11:30",0,0,1,74,"WTSP",1,"a","o","","unverifiable"
+2023-07-26,"EDH","merlin","iPhone SE","RC8","11:30",0,0,1,74,"none",NA,NA,"nA","",NA
+2023-07-26,"KL","playback",NA,"RC8","11:30",0,0,1,74,"none",NA,NA,NA,"",NA
+2023-07-26,"BDG","hearing","human","RC9","12:14",0,0,1,74,"BTNW",2,"a","u","","yes"
+2023-07-26,"BDG","hearing","human","RC9","12:14",0,0,1,74,"RBNU",1,"a","o","","unverifiable"
+2023-07-26,"BDG","hearing","human","RC9","12:14",0,0,1,74,"BHVI",1,"a","u","","no"
+2023-07-26,"EDH","merlin","iPhone SE","RC9","12:14",0,0,1,74,"BTNW",1,"a",NA,"","yes"
+2023-08-03,"BDG","hearing","human","RC5","11:47",0,2,1,68,"MODO",1,"a","o","","unverifiable"
+2023-08-03,"BDG","hearing","human","RC5","11:47",0,2,1,68,"REVI",1,"a","o","","unverifiable"
+2023-08-03,"EDH","merlin","iPhone SE","RC5","11:47",0,2,1,68,"none",NA,NA,NA,"",NA
+2023-08-03,"KL","playback",NA,"RC5","11:47",0,2,1,68,"none",NA,NA,NA,"",NA
+2023-08-03,"BDG","hearing","human","RC6","11:36",0,2,1,64,"BTNW",1,"a","o","","yes"
+2023-08-03,"EDH","merlin","iPhone SE","RC6","11:36",0,2,1,64,"none",NA,NA,NA,"",NA
+2023-08-03,"KL","playback",NA,"RC6","11:36",0,2,1,64,"BTNW",NA,"a",NA,"",NA
+2023-08-03,"BDG","hearing","human","RC7","11:25",0,1,1,64,"AMCR",1,"a","o","","unverifiable"
+2023-07-26,"EDH","merlin","iPhone SE","RC9","12:14",0,0,1,74,"REVI",1,"a",NA,"","yes"
+2023-07-26,"KL","playback",NA,"RC9","12:14",0,0,1,74,"BTNW",NA,"a",NA,"",NA
+2023-08-03,"EDH","merlin","iPhone SE","RC7","11:25",0,1,1,64,"none",NA,NA,NA,"",NA
+2023-08-03,"KL","playback",NA,"RC7","11:25",0,1,1,64,"none",NA,NA,NA,"",NA
+2023-08-03,"BDG","hearing","human","RC8","11:12",0,1,1,64,"REVI",1,"a","o","","yes"
+2023-08-03,"BDG","hearing","human","RC8","11:12",0,1,1,64,"BCCH",3,"a","u","","yes"
+2023-08-07,"KL","playback",NA,"RC5","9:27",1,0,0,67,"REVI",NA,"a",NA,"",NA
+2023-08-07,"KL","playback",NA,"RC5","9:27",1,0,0,67,"AMRO",NA,"a",NA,"",NA
+2023-08-07,"BDG","hearing","human","RC6","9:14",1,0,0,67,"AMCR",1,"a","o","","yes"
+2023-08-07,"BDG","hearing","human","RC6","9:14",1,0,0,67,"CEDW",1,"a","o","","yes"
+2023-08-07,"JMK","merlin","iPhone 14","RC6","9:14",1,0,0,67,"AMCR",1,"a",NA,"","yes"
+2023-08-07,"ZHK","merlin","iPhone 14","RC6","9:14",1,0,0,67,"AMCR",1,"a",NA,"","yes"
+2023-08-07,"KL","playback",NA,"RC6","9:14",1,0,0,67,"AMCR",NA,"a",NA,"",NA
+2023-08-07,"KL","playback",NA,"RC6","9:14",1,0,0,67,"CEDW",NA,"a",NA,"",NA
+2023-08-07,"KL","playback",NA,"RC6","9:14",1,0,0,67,"bird sp.",NA,"a",NA,"",NA
+2023-08-07,"BDG","hearing","human","RC7","9:03",1,0,0,67,"HETH",1,"a","o","","yes"
+2023-08-07,"BDG","hearing","human","RC7","9:03",1,0,0,67,"BCCH",1,"a","u","","yes"
+2023-08-07,"BDG","hearing","human","RC7","9:03",1,0,0,67,"WTSP",1,"a","o","","yes"
+2023-08-07,"BDG","hearing","human","RC7","9:03",1,0,0,67,"BLJA",3,"a","o","","yes"
+2023-08-07,"BDG","hearing","human","RC7","9:03",1,0,0,67,"GCKI",1,"a","u","","no"
+2023-08-07,"JMK","merlin","iPhone 14","RC7","9:03",1,0,0,67,"BLJA",1,"a",NA,"","yes"
+2023-08-07,"ZHK","merlin","iPhone 14","RC7","9:03",1,0,0,67,"BLJA",1,"a",NA,"","yes"
+2023-08-07,"KL","playback",NA,"RC7","9:03",1,0,0,67,"HETH",NA,"a",NA,"",NA
+2023-08-07,"KL","playback",NA,"RC7","9:03",1,0,0,67,"BCCH",NA,"a",NA,"",NA
+2023-08-07,"KL","playback",NA,"RC7","9:03",1,0,0,67,"WTSP",NA,"a",NA,"",NA
+2023-08-07,"KL","playback",NA,"RC7","9:03",1,0,0,67,"CEDW",NA,"a",NA,"",NA
+2023-08-07,"KL","playback",NA,"RC7","9:03",1,0,0,67,"BLJA",NA,"a",NA,"",NA
+2023-08-07,"BDG","hearing","human","RC8","8:53",1,0,0,67,"REVI",1,"a","u","","yes"
+2023-08-07,"BDG","hearing","human","RC8","8:53",1,0,0,67,"BLJA",1,"a","o","","unverifiable"
+2023-08-07,"JMK","merlin","iPhone 14","RC8","8:53",1,0,0,67,"REVI",1,"a",NA,"","yes"
+2023-08-07,"JMK","merlin","iPhone 14","RC8","8:53",1,0,0,67,"PUFI",1,"a",NA,"","yes"
+2023-08-07,"ZHK","merlin","iPhone 14","RC8","8:53",1,0,0,67,"REVI",1,"a",NA,"","yes"
+2023-08-07,"KL","playback",NA,"RC8","8:53",1,0,0,67,"REVI",NA,"a",NA,"",NA
+2023-08-07,"KL","playback",NA,"RC8","8:53",1,0,0,67,"PUFI",NA,"a",NA,"",NA
+2023-08-07,"BDG","hearing","human","RC9","8:42",1,0,0,67,"HETH",2,"a","u","","yes"
+2023-08-07,"BDG","hearing","human","RC9","8:42",1,0,0,67,"NOFL",1,"a","o","","yes"
+2023-08-07,"BDG","hearing","human","RC9","8:42",1,0,0,67,"REVI",1,"a","o","","yes"
+2023-08-07,"JMK","merlin","iPhone 14","RC9","8:42",1,0,0,67,"HETH",1,"a",NA,"","yes"
+2023-08-07,"ZHK","merlin","iPhone 14","RC9","8:42",1,0,0,67,"HETH",1,"a",NA,"","yes"
+2023-08-07,"ZHK","merlin","iPhone 14","RC9","8:42",1,0,0,67,"NOFL",1,"a",NA,"","yes"
+2023-08-07,"KL","playback",NA,"RC9","8:42",1,0,0,67,"HETH",NA,"a",NA,"",NA
+2023-08-07,"KL","playback",NA,"RC9","8:42",1,0,0,67,"REVI",NA,"a",NA,"",NA
+2023-08-07,"KL","playback",NA,"RC9","8:42",1,0,0,67,"NOFL",NA,"a",NA,"",NA
+2023-08-07,"KL","playback",NA,"RC9","8:42",1,0,0,67,"warbler sp.",NA,"a",NA,"",NA
+2023-08-16,"EJD","merlin","iPhone 12 Pro","RC5","7:27",2,0,1,61,"EAKI",1,"a",NA,"","yes"
+2023-08-16,"KL","playback",NA,"RC5","7:27",2,0,1,61,"AMRO",NA,"a",NA,"",NA
+2023-08-16,"KL","playback",NA,"RC5","7:27",2,0,1,61,"EAKI",NA,"a",NA,"",NA
+2023-08-16,"KL","playback",NA,"RC5","7:27",2,0,1,61,"YRWA",NA,"a",NA,"",NA
+2023-08-16,"KL","playback",NA,"RC5","7:27",2,0,1,61,"BCCH",NA,"a",NA,"",NA
+2023-08-16,"KL","playback",NA,"RC5","7:27",2,0,1,61,"HETH",NA,"a",NA,"",NA
+2023-08-16,"KL","playback",NA,"RC5","7:27",2,0,1,61,"bird sp.",NA,"a",NA,"Sparrow?",NA
+2023-08-16,"BDG","hearing","human","RC6","7:42",2,0,1,61,"DEJU",1,"a","u","","no"
+2023-08-16,"BDG","hearing","human","RC6","7:42",2,0,1,61,"AMRO",1,"a","u","","yes"
+2023-08-16,"EJD","merlin","iPhone 12 Pro","RC6","7:42",2,0,1,61,"none",NA,NA,NA,"",NA
+2023-08-16,"KL","playback",NA,"RC6","7:42",2,0,1,61,"warbler sp.",NA,"a",NA,"",NA
+2023-08-16,"KL","playback",NA,"RC6","7:42",2,0,1,61,"AMRO",NA,"a",NA,"",NA
+2023-08-16,"BDG","hearing","human","RC7","7:54",2,0,1,61,"GRCA",1,"a","o","","unverifiable"
+2023-08-16,"BDG","hearing","human","RC7","7:54",2,0,1,61,"PIWA",1,"v","u","","unverifiable"
+2023-08-16,"BDG","hearing","human","RC7","7:54",2,0,1,61,"BCCH",1,"a","u","","no"
+2023-08-16,"BDG","hearing","human","RC7","7:54",2,0,1,61,"DEJU",2,"a","u","","unverifiable"
+2023-08-16,"EJD","merlin","iPhone 12 Pro","RC7","7:54",2,0,1,61,"none",NA,NA,NA,"",NA
+2023-08-16,"KL","playback",NA,"RC7","7:54",2,0,1,61,"warbler sp.",NA,"a",NA,"",NA
+2023-08-16,"BDG","hearing","human","RC8","8:04",2,0,1,61,"UNK",1,"a","u","",NA
+2023-08-16,"BDG","hearing","human","RC8","8:04",2,0,1,61,"REVI",2,"a","u","","yes"
+2023-08-16,"BDG","hearing","human","RC8","8:04",2,0,1,61,"MODO",1,"a","u","","unverifiable"
+2023-08-16,"BDG","hearing","human","RC8","8:04",2,0,1,61,"DEJU",1,"a","u","","unverifiable"
+2023-08-16,"EJD","merlin","iPhone 12 Pro","RC8","8:04",2,0,1,61,"REVI",1,"a",NA,"","yes"
+2023-08-16,"EJD","merlin","iPhone 12 Pro","RC8","8:04",2,0,1,61,"AGOL",1,"a",NA,"","yes"
+2023-08-16,"KL","playback",NA,"RC8","8:04",2,0,1,61,"REVI",NA,"a",NA,"",NA
+2023-08-16,"KL","playback",NA,"RC8","8:04",2,0,1,61,"AGOL",NA,"a",NA,"",NA
+2023-08-16,"BDG","hearing","human","RC9","8:17",2,0,1,61,"DEJU",3,"a","o","","yes"
+2023-08-16,"EJD","merlin","iPhone 12 Pro","RC9","8:17",2,0,1,61,"DEJU",1,"a",NA,"","yes"
+2023-08-16,"EJD","merlin","iPhone 12 Pro","RC9","8:17",2,0,1,61,"NOCA",1,"a",NA,"","no"
+2023-08-16,"KL","playback",NA,"RC9","8:17",2,0,1,61,"DEJU",NA,"a",NA,"",NA
+2023-08-24,"KL","playback",NA,"RC5","7:41",0,1,1,61,"bird sp.",NA,"a",NA,"",NA
+2023-08-24,"AB","merlin","iPhone 13 Mini","RC6","7:56",0,1,1,61,"AMCR",1,"a",NA,"","yes"
+2023-08-24,"AB","merlin","iPhone 13 Mini","RC6","7:56",0,1,1,61,"AMRO",1,"a",NA,"","yes"
+2023-08-24,"EDH","hearing","human","RC6","7:56",0,1,1,61,"AMCR",1,"a","o","","yes"
+2023-08-24,"EDH","hearing","human","RC6","7:56",0,1,1,61,"AMRO",2,"a","u","","yes"
+2023-08-24,"EDH","hearing","human","RC6","7:56",0,1,1,61,"MODO",1,"a","o","","unverifiable"
+2023-08-24,"EDH","hearing","human","RC6","7:56",0,1,1,61,"BAWW",1,"a","o","","yes"
+2023-08-24,"KL","playback",NA,"RC6","7:56",0,1,1,61,"bird sp.",NA,"a",NA,"",NA
+2023-08-24,"KL","playback",NA,"RC6","7:56",0,1,1,61,"AMRO",NA,"a",NA,"",NA
+2023-08-24,"KL","playback",NA,"RC6","7:56",0,1,1,61,"AMCR",NA,"a",NA,"",NA
+2023-08-24,"KL","playback",NA,"RC6","7:56",0,1,1,61,"BAWW",NA,"a",NA,"",NA
+2023-08-24,"EDH","hearing","human","RC7","8:11",0,1,2,61,"MODO",1,"a","o","","unverifiable"
+2023-08-24,"EDH","hearing","human","RC7","8:11",0,1,2,61,"UNK",1,"a","u","",NA
+2023-08-24,"EDH","hearing","human","RC7","8:11",0,1,2,61,"UNK",1,"a","u","",NA
+2023-08-24,"AB","merlin","iPhone 13 Mini","RC7","8:11",0,1,2,61,"none",NA,NA,NA,"",NA
+2023-08-24,"KL","playback",NA,"RC7","8:11",0,1,2,61,"warbler sp.",NA,"a",NA,"",NA
+2023-08-24,"AB","merlin","iPhone 13 Mini","RC8","8:23",0,1,2,61,"REVI",1,"a",NA,"","yes"
+2023-08-24,"AB","merlin","iPhone 13 Mini","RC8","8:23",0,1,2,61,"NOFL",1,"a",NA,"","yes"
+2023-08-24,"EDH","hearing","human","RC8","8:23",0,1,2,61,"REVI",1,"a","u","","yes"
+2023-08-24,"EDH","hearing","human","RC8","8:23",0,1,2,61,"UNK",1,"a","u","",NA
+2023-08-24,"EDH","hearing","human","RC8","8:23",0,1,2,61,"AMCR",1,"a","o","","unverifiable"
+2023-08-24,"EDH","hearing","human","RC8","8:23",0,1,2,61,"UNK",1,"a","u","",NA
+2023-08-24,"KL","playback",NA,"RC8","8:23",0,1,2,61,"REVI",NA,"a",NA,"",NA
+2023-08-24,"KL","playback",NA,"RC8","8:23",0,1,2,61,"warbler sp.",NA,"a",NA,"",NA
+2023-08-24,"KL","playback",NA,"RC8","8:23",0,1,2,61,"NOFL",NA,"a",NA,"",NA
+2023-08-24,"AB","merlin","iPhone 13 Mini","RC9","8:34",0,1,2,61,"MODO",1,"a",NA,"","yes"
+2023-08-24,"EDH","hearing","human","RC9","8:34",0,1,2,61,"REVI",1,"a","u","","yes"
+2023-08-24,"EDH","hearing","human","RC9","8:34",0,1,2,61,"MODO",1,"a","o","","yes"
+2023-08-24,"EDH","hearing","human","RC9","8:34",0,1,2,61,"AMCR",1,"a","o","","unverifiable"
+2023-08-24,"KL","playback",NA,"RC9","8:34",0,1,2,61,"REVI",NA,"a",NA,"",NA
+2023-08-24,"KL","playback",NA,"RC9","8:34",0,1,2,61,"MODO",NA,"a",NA,"",NA
+2023-09-03,"KL","playback",NA,"RC4","8:21",1,0,1,60,"BAWW",NA,"a",NA,"",NA
+2023-09-03,"BDG","hearing","human","RC5","8:33",1,0,1,65,"NOFL",1,"a","u","","yes"
+2023-09-03,"BDG","hearing","human","RC5","8:33",1,0,1,65,"AGOL",1,"a","o","","unverifiable"
+2023-09-03,"BDG","hearing","human","RC5","8:33",1,0,1,65,"BLJA",2,"a","o","","unverifiable"
+2023-09-03,"KPM","merlin","iPhone 13","RC5","8:33",1,0,1,65,"NOFL",1,"a",NA,"","yes"
+2023-09-03,"KL","playback",NA,"RC5","8:33",1,0,1,65,"NOFL",NA,"a",NA,"",NA
+2023-09-03,"BDG","hearing","human","RC6","8:45",1,0,1,65,"BLJA",2,"a","o","","unverifiable"
+2023-09-03,"KPM","merlin","iPhone 13","RC6","8:45",1,0,1,65,"none",NA,NA,NA,"",NA
+2023-09-03,"KL","playback",NA,"RC6","8:45",1,0,1,65,"BAWW",NA,"a",NA,"",NA
+2023-09-03,"BDG","hearing","human","RC7","8:57",1,0,1,65,"NAWA",1,"a","u","","yes"
+2023-09-03,"BDG","hearing","human","RC7","8:57",1,0,1,65,"CORA",1,"a","o","","unverifiable"
+2023-09-03,"BDG","hearing","human","RC7","8:57",1,0,1,65,"CEDW",1,"a","o","","unverifiable"
+2023-09-03,"BDG","hearing","human","RC7","8:57",1,0,1,65,"BCCH",1,"a","o","","unverifiable"
+2023-09-03,"KPM","merlin","iPhone 13","RC7","8:57",1,0,1,65,"none",NA,NA,NA,"",NA
+2023-09-03,"KL","playback",NA,"RC7","8:57",1,0,1,65,"NAWA",NA,"a",NA,"",NA
+2023-09-03,"KL","playback",NA,"RC7","8:57",1,0,1,65,"warbler sp.",NA,"a",NA,"",NA
+2023-09-03,"KL","playback",NA,"RC7","8:57",1,0,1,65,"BRCR",NA,"a",NA,"",NA
+2023-09-03,"BDG","hearing","human","RC8","9:09",1,0,1,65,"BLJA",4,"a","u","","yes"
+2023-09-03,"BDG","hearing","human","RC8","9:09",1,0,1,65,"REVI",2,"a","u","","yes"
+2023-09-03,"BDG","hearing","human","RC8","9:09",1,0,1,65,"RBNU",1,"a","o","","unverifiable"
+2023-09-03,"KPM","merlin","iPhone 13","RC8","9:09",1,0,1,65,"BLJA",1,"a",NA,"","yes"
+2023-09-03,"KPM","merlin","iPhone 13","RC8","9:09",1,0,1,65,"REVI",1,"a",NA,"","yes"
+2023-09-03,"KL","playback",NA,"RC8","9:09",1,0,1,65,"BLJA",NA,"a",NA,"",NA
+2023-09-03,"KL","playback",NA,"RC8","9:09",1,0,1,65,"REVI",NA,"a",NA,"",NA
+2023-09-03,"BDG","hearing","human","RC9","9:21",1,0,1,65,"RBNU",1,"a","o","","unverifiable"
+2023-09-03,"KPM","merlin","iPhone 13","RC9","9:21",1,0,1,65,"none",NA,NA,NA,"",NA
+2023-09-03,"KL","playback",NA,"RC9","9:21",1,0,1,65,"none",NA,NA,NA,"",NA
+2023-09-10,"ZHK","merlin","iPhone 14","RC4","8:00",1,1,1,65,"AGOL",1,"a",NA,"","yes"
+2023-09-10,"KL","playback",NA,"RC4","8:00",1,1,1,65,"warbler sp.",NA,"a",NA,"",NA
+2023-09-10,"KL","playback",NA,"RC4","8:00",1,1,1,65,"BCCH",NA,"a",NA,"",NA
+2023-09-10,"KL","playback",NA,"RC4","8:00",1,1,1,65,"AGOL",NA,"a",NA,"",NA
+2023-09-10,"BDG","hearing","human","RC5","8:09",1,1,1,65,"BLJA",2,"a","o","","yes"
+2023-09-10,"BDG","hearing","human","RC5","8:09",1,1,1,65,"DOWO",1,"a","u","","yes"
+2023-09-10,"ZHK","merlin","iPhone 14","RC5","8:09",1,1,1,65,"DOWO",1,"a",NA,"","yes"
+2023-09-10,"KL","playback",NA,"RC5","8:09",1,1,1,65,"BLJA",NA,"a",NA,"",NA
+2023-09-10,"KL","playback",NA,"RC5","8:09",1,1,1,65,"DOWO",NA,"a",NA,"",NA
+2023-09-10,"BDG","hearing","human","RC6","8:19",1,1,1,66,"BLJA",3,"a","o","","yes"
+2023-09-10,"ZHK","merlin","iPhone 14","RC6","8:19",1,1,1,66,"none",NA,NA,NA,"",NA
+2023-09-10,"KL","playback",NA,"RC6","8:19",1,1,1,66,"BLJA",NA,"a",NA,"",NA
+2023-09-10,"BDG","hearing","human","RC7","8:30",1,1,1,66,"BLJA",1,"a","o","","yes"
+2023-09-10,"BDG","hearing","human","RC7","8:30",1,1,1,66,"BCCH",1,"a","u","","unverifiable"
+2023-09-10,"ZHK","merlin","iPhone 14","RC7","8:30",1,1,1,66,"BLJA",1,"a",NA,"","yes"
+2023-09-10,"KL","playback",NA,"RC7","8:30",1,1,1,66,"BLJA",NA,"a",NA,"",NA
+2023-09-10,"BDG","hearing","human","RC8","8:40",1,1,1,66,"BCCH",1,"a","o","","unverifiable"
+2023-09-10,"ZHK","merlin","iPhone 14","RC8","8:40",1,1,1,66,"none",NA,NA,NA,"",NA
+2023-09-10,"KL","playback",NA,"RC8","8:40",1,1,1,66,"none",NA,NA,NA,"",NA
+2023-09-10,"BDG","hearing","human","RC9","8:50",1,1,1,66,"BLJA",1,"a","o","","unverifiable"
+2023-09-10,"BDG","hearing","human","RC9","8:50",1,1,1,66,"AMRO",1,"a","u","","yes"
+2023-09-10,"ZHK","merlin","iPhone 14","RC9","8:50",1,1,1,66,"AMRO",1,"a",NA,"","yes"
+2023-09-10,"KL","playback",NA,"RC9","8:50",1,1,1,66,"AMRO",NA,"a",NA,"",NA
+2023-09-15,"BDG","hearing","human","RC5","7:39",0,0,1,56,"BCCH",1,"a","u","","no"
+2023-09-15,"BDG","hearing","human","RC5","7:39",0,0,1,56,"AGOL",2,"a","u","","yes"
+2023-09-15,"BDG","hearing","human","RC5","7:39",0,0,1,56,"COYE",1,"a","u","","unverifiable"
+2023-09-15,"BDG","hearing","human","RC5","7:39",0,0,1,56,"NOFL",1,"a","u","","no"
+2023-09-15,"KL","playback",NA,"RC5","7:39",0,0,1,56,"warbler sp.",NA,"a",NA,"BLPW?",NA
+2023-09-15,"KL","playback",NA,"RC5","7:39",0,0,1,56,"EAPH",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC5","7:39",0,0,1,56,"YRWA",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC5","7:39",0,0,1,56,"AGOL",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC5","7:39",0,0,1,56,"SWTH",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC5","7:39",0,0,1,56,"DOWO",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC5","7:39",0,0,1,56,"GCKI",NA,"a",NA,"",NA
+2023-09-15,"BDG","hearing","human","RC6","7:50",0,0,1,56,"BCCH",1,"a","u","","no"
+2023-09-15,"KPM","merlin","iPhone 13","RC6","7:50",0,0,1,56,"none",NA,NA,NA,"",NA
+2023-09-15,"AB","merlin","iPhone 13 Mini","RC6","7:50",0,0,1,56,"none",NA,NA,NA,"",NA
+2023-09-15,"KL","playback",NA,"RC6","7:50",0,0,1,56,"warbler sp.",NA,"a",NA,"",NA
+2023-09-15,"KPM","merlin","iPhone 13","RC7","8:01",0,0,1,56,"CMWA",1,"a",NA,"","no"
+2023-09-15,"BDG","hearing","human","RC7","8:01",0,0,1,56,"BCCH",1,"a","u","","no"
+2023-09-15,"BDG","hearing","human","RC7","8:01",0,0,1,56,"COYE",1,"a","o","","yes"
+2023-09-15,"BDG","hearing","human","RC7","8:01",0,0,1,56,"AGOL",1,"a","u","","yes"
+2023-09-15,"AB","merlin","iPhone 13 Mini","RC7","8:01",0,0,1,56,"none",NA,NA,NA,"",NA
+2023-09-15,"KL","playback",NA,"RC7","8:01",0,0,1,56,"warbler sp.",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC7","8:01",0,0,1,56,"COYE",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC7","8:01",0,0,1,56,"AGOL",NA,"a",NA,"",NA
+2023-09-15,"KPM","merlin","iPhone 13","RC8","8:11",0,0,1,56,"REVI",1,"a",NA,"","yes"
+2023-09-15,"AB","merlin","iPhone 13 Mini","RC8","8:11",0,0,1,56,"REVI",1,"a",NA,"","yes"
+2023-09-15,"BDG","hearing","human","RC8","8:11",0,0,1,56,"RBNU",1,"a","u","","yes"
+2023-09-15,"BDG","hearing","human","RC8","8:11",0,0,1,56,"REVI",1,"a","u","","yes"
+2023-09-15,"BDG","hearing","human","RC8","8:11",0,0,1,56,"BCCH",1,"a","u","","no"
+2023-09-15,"KL","playback",NA,"RC8","8:11",0,0,1,56,"RBNU",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC8","8:11",0,0,1,56,"REVI",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC8","8:11",0,0,1,56,"YRWA",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC8","8:11",0,0,1,56,"warbler sp.",NA,"a",NA,"",NA
+2023-09-15,"KPM","merlin","iPhone 13","RC9","8:21",0,0,1,56,"GCKI",1,"a",NA,"","yes"
+2023-09-15,"AB","merlin","iPhone 13 Mini","RC9","8:21",0,0,1,56,"DEJU",1,"a",NA,"","no"
+2023-09-15,"AB","merlin","iPhone 13 Mini","RC9","8:21",0,0,1,56,"GCKI",1,"a",NA,"","yes"
+2023-09-15,"BDG","hearing","human","RC9","8:21",0,0,1,56,"BLJA",1,"a","o","","yes"
+2023-09-15,"BDG","hearing","human","RC9","8:21",0,0,1,56,"BCCH",1,"a","u","","no"
+2023-09-15,"KL","playback",NA,"RC9","8:21",0,0,1,56,"GCKI",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC9","8:21",0,0,1,56,"BLJA",NA,"a",NA,"",NA
+2023-09-15,"KL","playback",NA,"RC9","8:21",0,0,1,56,"BTNW",NA,"a",NA,"",NA
+2023-07-26,"KL","playback",NA,"RC9","12:14",0,0,1,74,"REVI",NA,"a",NA,"",NA
+2023-09-18,"BDG","hearing","human","RC4","7:37",1,0,1,56,"AMCR",2,"a","o","","unverifiable"
+2023-09-18,"BDG","hearing","human","RC4","7:37",1,0,1,56,"NOFL",1,"a","u","","no"
+2023-09-18,"AB","merlin","iPhone 13 Mini","RC4","7:37",1,0,1,56,"none",NA,NA,NA,"",NA
+2023-09-18,"KL","playback",NA,"RC4","7:37",1,0,1,56,"warbler sp.",NA,"a",NA,"",NA
+2023-09-18,"KL","playback",NA,"RC4","7:37",1,0,1,56,"HETH",NA,"a",NA,"",NA
+2023-09-18,"AB","merlin","iPhone 13 Mini","RC5","7:46",1,0,1,57,"BLJA",1,"a",NA,"","yes"
+2023-09-18,"BDG","hearing","human","RC5","7:46",1,0,1,57,"AMCR",2,"a","o","","unverifiable"
+2023-09-18,"BDG","hearing","human","RC5","7:46",1,0,1,57,"BLJA",1,"a","o","","yes"
+2023-09-18,"BDG","hearing","human","RC5","7:46",1,0,1,57,"CANG",3,"a","o","","yes"
+2023-09-18,"KL","playback",NA,"RC5","7:46",1,0,1,57,"BLJA",NA,"a",NA,"",NA
+2023-09-18,"KL","playback",NA,"RC5","7:46",1,0,1,57,"CORA",NA,"a",NA,"",NA
+2023-09-18,"KL","playback",NA,"RC5","7:46",1,0,1,57,"CANG",NA,"a",NA,"",NA
+2023-08-03,"EDH","merlin","iPhone SE","RC8","11:12",0,1,1,64,"REVI",1,"a",NA,"","yes"
+2023-08-03,"EDH","merlin","iPhone SE","RC8","11:12",0,1,1,64,"BCCH",1,"a",NA,"","yes"
+2023-08-03,"KL","playback",NA,"RC8","11:12",0,1,1,64,"REVI",NA,"a",NA,"",NA
+2023-08-03,"KL","playback",NA,"RC8","11:12",0,1,1,64,"BCCH",NA,"a",NA,"",NA
+2023-08-03,"BDG","hearing","human","RC9","10:52",0,1,1,64,"BTNW",1,"a","u","","yes"
+2023-08-03,"EDH","merlin","iPhone SE","RC9","10:52",0,1,1,64,"BTNW",1,"a",NA,"audio files","yes"
+2023-08-03,"KL","playback",NA,"RC9","10:52",0,1,1,64,"BTNW",NA,"a",NA,"",NA
+2023-09-26,"KL","playback",NA,"RC1","7:07",0,0,1,46,"GCKI",NA,"a",NA,"",NA
+2023-09-26,"KL","playback",NA,"RC1","7:07",0,0,1,46,"AMRO",NA,"a",NA,"",NA
+2023-09-26,"KL","playback",NA,"RC1","7:07",0,0,1,46,"warbler sp.",NA,"a",NA,"",NA
+2023-09-26,"KL","playback",NA,"RC1","7:07",0,0,1,46,"YRWA",NA,"a",NA,"",NA
+2023-09-26,"KL","playback",NA,"RC1","7:07",0,0,1,46,"AMCR",NA,"a",NA,"",NA
+2023-09-26,"KL","playback",NA,"RC2","7:16",0,0,1,46,"GCKI",NA,"a",NA,"",NA
+2023-09-26,"KL","playback",NA,"RC2","7:16",0,0,1,46,"BTNW",NA,"a",NA,"",NA
+2023-09-26,"KL","playback",NA,"RC2","7:16",0,0,1,46,"BLJA",NA,"a",NA,"",NA
+2023-09-26,"KL","playback",NA,"RC2","7:16",0,0,1,46,"MAWA",NA,"a",NA,"",NA
+2023-09-26,"KL","playback",NA,"RC2","7:16",0,0,1,46,"bird sp.",NA,"a",NA,"",NA
+2023-09-26,"KPM","merlin","iPhone 13","RC3","7:28",0,0,1,46,"none",NA,NA,NA,"",NA
+2023-09-26,"KL","playback",NA,"RC3","7:28",0,0,1,46,"warbler sp.",NA,"a",NA,"",NA
+2023-09-26,"KPM","merlin","iPhone 13","RC4","7:38",0,0,1,46,"sparrow sp.",NA,"a",NA,"",NA
+2023-09-26,"KL","playback",NA,"RC4","7:38",0,0,1,46,"RBNU",NA,"a",NA,"",NA
+2023-09-26,"KL","playback",NA,"RC5","7:48",0,0,1,48,"GCKI",NA,"a",NA,"",NA
+2023-09-26,"KL","playback",NA,"RC5","7:48",0,0,1,48,"YRWA",NA,"a",NA,"",NA
+2023-09-26,"KL","playback",NA,"RC5","7:48",0,0,1,48,"BLJA",NA,"a",NA,"",NA
+2023-09-26,"KL","playback",NA,"RC6","7:58",0,0,1,48,"BCCH",NA,"a",NA,"",NA
+2023-09-26,"KL","playback",NA,"RC6","7:58",0,0,1,48,"YRWA",NA,"a",NA,"",NA
+2023-09-26,"KPM","merlin","iPhone 13","RC7","8:11",0,0,1,48,"none",NA,NA,NA,"",NA
+2023-09-26,"KL","playback",NA,"RC7","8:11",0,0,1,48,"warbler sp.",NA,"a",NA,"",NA
+2023-09-26,"BDG","hearing","human","RC8","8:21",0,0,1,48,"none",NA,NA,NA,"",NA
+2023-09-26,"KPM","merlin","iPhone 13","RC8","8:21",0,0,1,48,"none",NA,NA,NA,"",NA
+2023-09-26,"KL","playback",NA,"RC8","8:21",0,0,1,48,"YRWA",NA,"a",NA,"",NA
+2023-09-26,"KPM","merlin","iPhone 13","RC9","8:34",0,0,1,48,"none",NA,NA,NA,"",NA
+2023-09-26,"KL","playback",NA,"RC9","8:34",0,0,1,48,"GCKI",NA,"a",NA,"",NA
+2023-09-26,"KL","playback",NA,"RC10","8:46",0,0,1,48,"GCKI",NA,"a",NA,"",NA
+2023-09-26,"KL","playback",NA,"RC9","8:34",0,0,1,48,"warbler sp.",NA,"a",NA,"",NA
+2023-10-11,"EJD","merlin","iPhone 12 Pro","RC1","14:41",1,1,0,57,"none",NA,NA,NA,"",NA
+2023-10-11,"KL","playback",NA,"RC1","14:41",1,1,0,57,"none",NA,NA,NA,"",NA
+2023-10-11,"KL","playback",NA,"RC2","14:31",1,1,0,57,"none",NA,NA,NA,"",NA
+2023-10-11,"BDG","hearing","human","RC2","14:31",1,1,0,57,"none",NA,NA,NA,"",NA
+2023-10-11,"KL","playback",NA,"RC4","14:11",1,1,0,57,"GCKI",NA,"a",NA,"",NA
+2023-10-11,"KL","playback",NA,"RC4","14:11",1,1,0,57,"BCCH",NA,"a",NA,"",NA
+2023-10-11,"EJD","merlin","iPhone 12 Pro","RC5","13:47",1,1,0,57,"none",NA,NA,NA,"",NA
+2023-10-11,"KL","playback",NA,"RC5","13:47",1,1,0,57,"none",NA,NA,NA,"",NA
+2023-10-11,"EJD","merlin","iPhone 12 Pro","RC6","13:38",1,1,0,56,"none",NA,NA,NA,"",NA
+2023-10-11,"KL","playback",NA,"RC6","13:38",1,1,0,56,"none",NA,NA,NA,"",NA
+2023-10-11,"EJD","merlin","iPhone 12 Pro","RC7","13:28",1,1,0,56,"none",NA,NA,NA,"",NA
+2023-10-11,"KL","playback",NA,"RC7","13:28",1,1,0,56,"BCCH",NA,"a",NA,"",NA
+2023-10-11,"KL","playback",NA,"RC8","13:17",1,1,0,56,"BCCH",NA,"a",NA,"",NA
+2023-10-11,"EJD","merlin","iPhone 12 Pro","RC9","13:07",1,1,0,56,"none",NA,NA,NA,"",NA
+2023-10-11,"KL","playback",NA,"RC9","13:07",1,1,0,56,"none",NA,NA,NA,"",NA
+2023-10-11,"KL","playback",NA,"RC10","12:57",1,1,0,56,"GCKI",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC1","7:15",2,0,2,50,"GCKI",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC1","7:15",2,0,2,50,"YRWA",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC1","7:15",2,0,2,50,"PISI",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC1","7:15",2,0,2,50,"PUFI",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC2","7:26",2,0,2,50,"AMRO",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC2","7:26",2,0,2,50,"YRWA",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC2","7:26",2,0,2,50,"CORA",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC2","7:26",2,0,2,50,"PISI",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC2","7:26",2,0,2,50,"PUFI",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC3","7:36",2,0,2,50,"GCKI",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC3","7:36",2,0,2,50,"YRWA",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC3","7:36",2,0,2,50,"PISI",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC4","7:53",2,0,2,50,"DEJU",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC4","7:53",2,0,2,50,"YRWA",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC4","7:53",2,0,2,50,"BCCH",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC4","7:53",2,0,2,50,"WTSP",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC4","7:53",2,0,2,50,"GCKI",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC4","7:53",2,0,2,50,"PAWA",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC4","7:53",2,0,2,50,"warbler sp.",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC5","8:03",2,0,2,50,"GCKI",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC5","8:03",2,0,2,50,"WTSP",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC5","8:03",2,0,2,50,"AMCR",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC5","8:03",2,0,2,50,"HAWO",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC5","8:03",2,0,2,50,"SOSP",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC5","8:03",2,0,2,50,"CHSP",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC5","8:03",2,0,2,50,"YRWA",NA,"a",NA,"",NA
+2023-10-16,"JAA","merlin","iPhone 14","RC6","8:16",2,0,2,50,"none",NA,NA,NA,"",NA
+2023-10-16,"KL","playback",NA,"RC6","8:16",2,0,2,50,"YRWA",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC6","8:16",2,0,2,50,"AMRO",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC6","8:16",2,0,2,50,"HETH",NA,"a",NA,"",NA
+2023-10-16,"JAA","merlin","iPhone 14","RC7","8:26",2,0,2,50,"none",NA,NA,NA,"",NA
+2023-10-16,"KL","playback",NA,"RC7","8:26",2,0,2,50,"none",NA,NA,NA,"",NA
+2023-10-16,"KL","playback",NA,"RC8","8:36",2,0,2,50,"PIWO",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC8","8:36",2,0,2,50,"YRWA",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC8","8:36",2,0,2,50,"AMCR",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC8","8:36",2,0,2,50,"BCCH",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC8","8:36",2,0,2,50,"DEJU",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC9","8:46",2,0,2,50,"YRWA",NA,"a",NA,"",NA
+2023-10-16,"KL","playback",NA,"RC9","8:46",2,0,2,50,"DEJU",NA,"a",NA,"",NA
+2023-10-16,"JAA","merlin","iPhone 14","RC10","8:56",2,0,2,50,"none",NA,NA,NA,"",NA
+2023-10-16,"KL","playback",NA,"RC10","8:56",2,0,2,50,"none",NA,"a",NA,"",NA
+2023-10-27,"BDG","hearing","human","RC1","7:31",0,0,1,55,"AMRO",2,"a","u","","yes"
+2023-10-27,"BDG","hearing","human","RC1","7:31",0,0,1,55,"DEJU",5,"a","u","","no"
+2023-10-27,"BDG","hearing","human","RC1","7:31",0,0,1,55,"AGOL",5,"a","o","","unverifiable"
+2023-10-27,"BDG","hearing","human","RC1","7:31",0,0,1,55,"AMCR",2,"a","o","","unverifiable"
+2023-10-27,"BDG","hearing","human","RC2","7:45",0,0,1,55,"PISI",1,"a","o","","unverifiable"
+2023-10-27,"BDG","hearing","human","RC2","7:45",0,0,1,55,"AMCR",2,"a","o","","yes"
+2023-10-27,"BDG","hearing","human","RC3","7:56",0,0,1,55,"AMCR",3,"a","o","","yes"
+2023-10-27,"BDG","hearing","human","RC3","7:56",0,0,1,55,"BLJA",2,"a","o","","unverifiable"
+2023-10-27,"BDG","hearing","human","RC3","7:56",0,0,1,55,"PISI",2,"a","o","","yes"
+2023-10-27,"BDG","hearing","human","RC4","8:06",0,0,1,55,"BLJA",4,"v","u","","yes"
+2023-10-27,"BDG","hearing","human","RC4","8:06",0,0,1,55,"AGOL",3,"a","u","","yes"
+2023-10-27,"BDG","hearing","human","RC4","8:06",0,0,1,55,"BRCR",1,"a","u","","yes"
+2023-10-27,"BDG","hearing","human","RC4","8:06",0,0,1,55,"AMRO",5,"a","u","","yes"
+2023-10-27,"BDG","hearing","human","RC5","8:16",0,0,1,55,"PISI",3,"a","o","","yes"
+2023-10-27,"BDG","hearing","human","RC5","8:16",0,0,1,55,"GCKI",3,"a","o","","yes"
+2023-10-27,"BDG","hearing","human","RC5","8:16",0,0,1,55,"AMCR",1,"a","o","","yes"
+2023-10-27,"BDG","hearing","human","RC6","8:26",0,0,1,55,"AMCR",1,"a","o","","yes"
+2023-10-27,"BDG","hearing","human","RC6","8:26",0,0,1,55,"AMRO",3,"a","u","","yes"
+2023-10-27,"BDG","hearing","human","RC7","8:36",0,0,1,55,"GCKI",3,"a","u","","yes"
+2023-10-27,"BDG","hearing","human","RC8","8:46",0,0,1,55,"GCKI",1,"a","u","","yes"
+2023-10-27,"BDG","hearing","human","RC9","8:56",0,0,1,55,"GCKI",1,"a","u","","yes"
+2023-10-27,"BDG","hearing","human","RC9","8:56",0,0,1,55,"AMCR",1,"a","o","","unverifiable"
+2023-10-27,"BDG","hearing","human","RC10","9:05",0,0,1,55,"PISI",2,"a","u","","yes"
+2023-10-27,"BDG","hearing","human","RC10","9:05",0,0,1,55,"CORA",1,"a","o","","yes"
+2023-10-27,"BDG","hearing","human","RC10","9:05",0,0,1,55,"AMCR",2,"a","o","","unverifiable"
+2023-10-27,"AB","merlin","iPhone 13 Mini","RC1","7:31",0,0,1,55,"YRWA",1,"a",NA,"","yes"
+2023-10-27,"AB","merlin","iPhone 13 Mini","RC1","7:31",0,0,1,55,"AMRO",1,"a",NA,"","yes"
+2023-10-27,"AB","merlin","iPhone 13 Mini","RC2","7:45",0,0,1,55,"GRCA",1,"a",NA,"","no"
+2023-10-27,"AB","merlin","iPhone 13 Mini","RC4","8:06",0,0,1,55,"AGOL",1,"a",NA,"","yes"
+2023-10-27,"AB","merlin","iPhone 13 Mini","RC4","8:06",0,0,1,55,"YRWA",1,"a",NA,"","yes"
+2023-10-27,"AB","merlin","iPhone 13 Mini","RC4","8:06",0,0,1,55,"AMRO",1,"a",NA,"","yes"
+2023-10-27,"AB","merlin","iPhone 13 Mini","RC4","8:06",0,0,1,55,"BRCR",1,"a",NA,"","yes"
+2023-10-27,"AB","merlin","iPhone 13 Mini","RC5","8:16",0,0,1,55,"GCKI",1,"a",NA,"","yes"
+2023-10-27,"AB","merlin","iPhone 13 Mini","RC5","8:16",0,0,1,55,"GRCA",1,"a",NA,"","no"
+2023-10-27,"AB","merlin","iPhone 13 Mini","RC6","8:26",0,0,1,55,"AMRO",1,"a",NA,"","yes"
+2023-10-27,"AB","merlin","iPhone 13 Mini","RC6","8:26",0,0,1,55,"PIWO",1,"a",NA,"","no"
+2023-10-27,"AB","merlin","iPhone 13 Mini","RC7","8:36",0,0,1,55,"GCKI",1,"a",NA,"","yes"
+2023-10-27,"AB","merlin","iPhone 13 Mini","RC7","8:36",0,0,1,55,"BRCR",1,"a",NA,"","no"
+2023-10-27,"AB","merlin","iPhone 13 Mini","RC8","8:46",0,0,1,55,"GCKI",1,"a",NA,"","yes"
+2023-10-27,"AB","merlin","iPhone 13 Mini","RC9","8:56",0,0,1,55,"GCKI",1,"a",NA,"","yes"
+2023-10-27,"AB","merlin","iPhone 13 Mini","RC10","9:05",0,0,1,55,"PISI",1,"a",NA,"","yes"
+2023-10-27,"JAA","merlin","iPhone 14","RC1","7:31",0,0,1,55,"AMRO",1,"a",NA,"","yes"
+2023-10-27,"JAA","merlin","iPhone 14","RC1","7:31",0,0,1,55,"YRWA",1,"a",NA,"","yes"
+2023-10-27,"JAA","merlin","iPhone 14","RC4","8:06",0,0,1,55,"AGOL",1,"a",NA,"","yes"
+2023-10-27,"JAA","merlin","iPhone 14","RC4","8:06",0,0,1,55,"AMRO",1,"a",NA,"","yes"
+2023-10-27,"JAA","merlin","iPhone 14","RC4","8:06",0,0,1,55,"YRWA",1,"a",NA,"","yes"
+2023-10-27,"JAA","merlin","iPhone 14","RC4","8:06",0,0,1,55,"BRCR",1,"a",NA,"","yes"
+2023-10-27,"JAA","merlin","iPhone 14","RC5","8:16",0,0,1,55,"GCKI",1,"a",NA,"","yes"
+2023-10-27,"JAA","merlin","iPhone 14","RC5","8:16",0,0,1,55,"PISI",1,"a",NA,"","yes"
+2023-10-27,"JAA","merlin","iPhone 14","RC6","8:26",0,0,1,55,"AMRO",1,"a",NA,"","yes"
+2023-10-27,"JAA","merlin","iPhone 14","RC7","8:36",0,0,1,55,"GCKI",1,"a",NA,"","yes"
+2023-10-27,"JAA","merlin","iPhone 14","RC8","8:46",0,0,1,55,"GCKI",1,"a",NA,"","yes"
+2023-10-27,"JAA","merlin","iPhone 14","RC9","8:56",0,0,1,55,"GCKI",1,"a",NA,"","yes"
+2023-10-27,"KL","playback",NA,"RC1","7:31",0,0,1,55,"YRWA",NA,"a",NA,"",NA
+2023-10-27,"KL","playback",NA,"RC1","7:31",0,0,1,55,"AMRO",NA,"a",NA,"",NA
+2023-10-27,"JAA","merlin","iPhone 14","RC2","7:45",0,0,1,55,"none",NA,NA,NA,"",NA
+2023-10-27,"KL","playback",NA,"RC2","7:45",0,0,1,55,"AMCR",NA,"a",NA,"",NA
+2023-10-27,"AB","merlin","iPhone 13 Mini","RC3","7:56",0,0,1,55,"none",NA,NA,NA,"",NA
+2023-10-27,"JAA","merlin","iPhone 14","RC3","7:56",0,0,1,55,"none",NA,NA,NA,"",NA
+2023-10-27,"KL","playback",NA,"RC3","7:56",0,0,1,55,"AMCR",NA,"a",NA,"",NA
+2023-10-27,"KL","playback",NA,"RC3","7:56",0,0,1,55,"PISI",NA,"a",NA,"",NA
+2023-10-27,"KL","playback",NA,"RC4","8:06",0,0,1,55,"BLJA",NA,"a",NA,"",NA
+2023-10-27,"KL","playback",NA,"RC4","8:06",0,0,1,55,"YRWA",NA,"a",NA,"",NA
+2023-10-27,"KL","playback",NA,"RC4","8:06",0,0,1,55,"AGOL",NA,"a",NA,"",NA
+2023-10-27,"KL","playback",NA,"RC4","8:06",0,0,1,55,"AMRO",NA,"a",NA,"",NA
+2023-10-27,"KL","playback",NA,"RC4","8:06",0,0,1,55,"BRCR",NA,"a",NA,"",NA
+2023-10-27,"KL","playback",NA,"RC5","8:16",0,0,1,55,"PISI",NA,"a",NA,"",NA
+2023-10-27,"KL","playback",NA,"RC5","8:16",0,0,1,55,"GCKI",NA,"a",NA,"",NA
+2023-10-27,"KL","playback",NA,"RC5","8:16",0,0,1,55,"AMCR",NA,"a",NA,"",NA
+2023-10-27,"KL","playback",NA,"RC6","8:26",0,0,1,55,"AMCR",NA,"a",NA,"",NA
+2023-10-27,"KL","playback",NA,"RC6","8:26",0,0,1,55,"AMRO",NA,"a",NA,"",NA
+2023-10-27,"KL","playback",NA,"RC7","8:36",0,0,1,55,"GCKI",NA,"a",NA,"",NA
+2023-10-27,"KL","playback",NA,"RC8","8:46",0,0,1,55,"GCKI",NA,"a",NA,"",NA
+2023-10-27,"KL","playback",NA,"RC9","8:56",0,0,1,55,"GCKI",NA,"a",NA,"",NA
+2023-10-27,"KL","playback",NA,"RC9","8:56",0,0,1,55,"AMCR",NA,"a",NA,"",NA
+2023-10-27,"JAA","merlin","iPhone 14","RC10","9:05",0,0,1,55,"none",NA,NA,NA,"",NA
+2023-10-27,"KL","playback",NA,"RC10","9:05",0,0,1,55,"PISI",NA,"a",NA,"",NA
+2023-10-27,"KL","playback",NA,"RC10","9:05",0,0,1,55,"CORA",NA,"a",NA,"",NA
