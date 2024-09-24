@@ -16,6 +16,7 @@ library(lmerTest)
 library(ggeffects)
 library(mlogit)
 library(dfidx)
+library(RColorBrewer)
 
 source("scripts/analysis_functions.R")
 
@@ -42,8 +43,12 @@ merl <- read.csv("data/merlin_survey_data_20231110.csv") %>%
                                                         "RC4", "RC5", "RC6",
                                                         "RC7", "RC8", "RC9", 
                                                         "RC10")),
-         temp = ifelse(date == "2023-08-07", 67, temp)) %>% 
+         temp = ifelse(date == "2023-08-07", 67, temp),
+         correct.id = ifelse(obs.method == "merlin" & correct.id == "unverifiable", "no", correct.id)) %>% 
   filter(date != "2023-07-13" & date != "2023-10-06")
+
+
+# write.csv(merl, "data/merlin_analysis_dataset.csv", row.names = F)
 
 
 
@@ -179,6 +184,141 @@ plot_map
 # saveWidget(plot_map, "outputs/temp.html", selfcontained = FALSE)
 # webshot("outputs/temp.html", 
 #         file = "outputs/forpub/extras/survey_points_map2.png", zoom = 6)
+
+
+
+
+#------------------------------------------------#
+####            Detection Heatmap             ####
+#------------------------------------------------#
+
+merl %>% 
+  select(date, point.number) %>%
+  distinct() %>% 
+  group_by(date) %>% 
+  summarise(num.surveys = length(point.number))
+
+
+heatdat <- merl %>%
+  filter(date != "2023-09-18" & date != "2023-10-11")
+  
+
+splists <- heatdat %>% 
+  # filter(correct.id == "yes" | correct.id == "unverifiable" |
+  #          is.na(correct.id)) %>% 
+  filter(species.code != "UNK" & species.code != "none" & 
+           species.code != "bird sp." & species.code != "warbler sp." & 
+           species.code != "sparrow sp.") %>% 
+  select(species.code) %>% 
+  distinct() %>% 
+  arrange(species.code)
+
+
+spdfhm <- bind_rows(splists, splists) %>% 
+  bind_rows(., splists) %>% 
+  bind_rows(., splists) %>% 
+  bind_rows(., splists) %>% 
+  bind_rows(., splists) %>% 
+  bind_rows(., splists) %>% 
+  bind_rows(., splists) %>% 
+  bind_rows(., splists) %>% 
+  bind_rows(., splists) %>% 
+  bind_cols(., data.frame(point.number = rep(paste0("RC", seq(10)), 59)) %>% 
+              mutate(point.number = factor(point.number, 
+                                           levels = c("RC1", "RC2", "RC3",
+                                                        "RC4", "RC5", "RC6",
+                                                        "RC7", "RC8", "RC9", 
+                                                        "RC10"))) %>% 
+  arrange(point.number))
+  
+
+nmsurv <- heatdat %>% 
+  select(date, point.number) %>%
+  distinct() %>% 
+  group_by(point.number) %>% 
+  summarise(num.surveys = length(point.number))
+
+
+test_mat <- matrix(0, 59, 10)
+colnames(test_mat) <- paste0("RC", seq(ncol(test_mat)))
+
+
+bind_cols(test_mat, splists) %>% 
+  select(species.code, everything())
+
+
+hearhm <- heatdat %>% 
+  filter(obs.method == "hearing") %>%
+  mutate(point.id = paste0(date, "-", point.number), pres = 1) %>% 
+  # filter(correct.id == "yes" | correct.id == "unverifiable") %>% 
+  group_by(point.number, species.code) %>% 
+  summarise(count = sum(pres)) %>% 
+  filter(species.code != "UNK" & species.code != "none") %>% 
+  left_join(., nmsurv, by = "point.number") %>% 
+  mutate(perc = count/num.surveys) %>% 
+  select(point.number, species.code, perc) %>% 
+  # pivot_wider(names_from = point.number,
+  #             values_from = perc)
+  full_join(., spdfhm, by = c("point.number", "species.code"))
+  
+
+merlhm <- heatdat %>% 
+  filter(obs.method == "merlin") %>%
+  # filter(correct.id == "yes") %>% 
+  select(date, point.number, species.code) %>% 
+  distinct() %>% 
+  mutate(pres = 1) %>% 
+  group_by(point.number, species.code) %>% 
+  summarise(count = sum(pres)) %>% 
+  filter(species.code != "UNK" & species.code != "none" & 
+           species.code != "sparrow sp.") %>% 
+  left_join(., nmsurv, by = "point.number") %>% 
+  mutate(perc = count/num.surveys) %>% 
+  select(point.number, species.code, perc) %>% 
+  # pivot_wider(names_from = point.number,
+  #             values_from = perc) %>% 
+  full_join(., spdfhm, by = c("point.number", "species.code"))
+
+
+pbhm <- heatdat %>% 
+  filter(obs.method == "playback") %>%
+  mutate(point.id = paste0(date, "-", point.number), pres = 1) %>% 
+  #filter(correct.id == "yes" | correct.id == "unverifiable") %>% 
+  group_by(point.number, species.code) %>% 
+  summarise(count = sum(pres)) %>% 
+  filter(species.code != "UNK" & species.code != "none" &
+           species.code != "bird sp." & species.code != "warbler sp.") %>% 
+  left_join(., nmsurv, by = "point.number") %>% 
+  mutate(perc = count/num.surveys) %>% 
+  select(point.number, species.code, perc) %>% 
+  full_join(., spdfhm, by = c("point.number", "species.code"))
+  
+
+# pbhm %>% ungroup() %>% select(species.code) %>% distinct(species.code)
+
+
+bind_rows(pbhm %>% mutate(obs = "playback"), merlhm %>% mutate(obs = "merlin"), 
+          hearhm %>% mutate(obs = "human")) %>%  
+  ggplot() +
+  geom_tile(aes(y = species.code, x = point.number,
+                fill = perc)) +
+  facet_wrap("obs") +
+  labs(x = "Point number", y = "Species") +
+  scale_fill_continuous(na.value = "gray92") +
+  scale_y_discrete(limits = rev) +
+  theme(legend.title = element_blank(),
+        panel.grid.major = element_blank(),
+        axis.text.x = element_text(angle = 90, vjust = 0.5))
+
+
+ggsave("outputs/detection_heatmap_alldata.png", width = 6.0, height = 7.8, dpi = 700)
+
+
+
+bind_rows(pbhm %>% mutate(obs = "playback"), merlhm %>% mutate(obs = "merlin"), 
+          hearhm %>% mutate(obs = "human")) %>% 
+  arrange(obs, point.number, species.code) %>% 
+  write.csv(., "outputs/detection_heatmap_alldata.csv", row.names = F)
 
 
 

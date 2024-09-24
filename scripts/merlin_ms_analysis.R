@@ -14,13 +14,12 @@ library(leaflet)
 library(htmlwidgets)
 library(webshot2)
 library(lme4)
-# library(ggeffects)
 library(ggtext)
+library(emmeans)
 
 
 ### Source the script with custom functions for use in analysis
 source("scripts/analysis_functions.R")
-
 
 
 
@@ -580,7 +579,7 @@ compfigdat %>%
              position = position_dodge(width = 0.2), size = 2.2) +
   geom_text(aes(x = metric, y = rate, label = denot, fill = NULL), 
             data = barlabs, size = 6, fontface = "bold") +
-  labs(x = "Metric", y = "Mean rate") +
+  labs(x = Metric~"/ 0.25"~m^2, y = "Mean rate") +
   ylim(ymin = 0, ymax = 3.2) +
   scale_color_manual(values = c("Human observers" = "black",
                        "<i>Merlin</i>" = "gray60")) +
