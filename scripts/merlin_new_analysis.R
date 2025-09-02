@@ -229,6 +229,18 @@ length(doc.spp$species.code) # 45 species
 
 
 
+t <- merl %>% 
+  filter(obs.method == "merlin") %>% 
+  filter(species.code != "none" & species.code != "warbler sp." &
+           species.code != "bird sp." & species.code != "sparrow sp." &
+           species.code != "Empidonax sp." & species.code != "UNK") %>%
+  filter(correct.id == "yes") %>% 
+  dplyr::select(species.code) %>% 
+  distinct() %>% 
+  arrange(species.code)
+
+
+
 #------------------------------------------------#
 ####            Detection Heatmap             ####
 #------------------------------------------------#
